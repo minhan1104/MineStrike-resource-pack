@@ -1,0 +1,2138 @@
+{
+	"__comment": "Designed by NgXTruongHai with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"Karambit_atlas": "new/karambit"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels",
+			"from": [ 3, 7.875, 9.5 ],
+			"to": [ 3.25, 8.125, 9.75 ],
+			"faces": {
+				"down": { "uv": [ 7.125, 14.125, 7.375, 14.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.125, 14.125, 7.375, 13.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 10.375, 8, 10.125, 8.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.75, 9.125, 11, 9.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 10.75, 8.75, 11, 9 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 11, 8.375, 10.75, 8.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.125, 7.75, 9.5 ],
+			"to": [ 3.625, 7.875, 9.75 ],
+			"faces": {
+				"down": { "uv": [ 11.875, 12.375, 12.375, 12.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.875, 12.625, 13.375, 12.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 9.375, 4.75, 9.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 4.75, 9.25, 5.25, 9.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 9.875, 13.5, 10.125, 13.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 10.125, 10.625, 9.875, 10.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.125, 7.875, 9.375 ],
+			"to": [ 3.375, 8.125, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 9.875, 10.5, 10.125, 10.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.875, 10.5, 10.125, 10.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.875, 11.875, 15.625, 12.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.75, 11.625, 12, 11.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 5.125, 13.75, 5.25, 14 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 5.25, 13.5, 5.125, 13.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.125, 7.875, 9.75 ],
+			"to": [ 3.375, 8.125, 9.875 ],
+			"faces": {
+				"down": { "uv": [ 9.875, 10.25, 10.125, 10.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.875, 10.25, 10.125, 10.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12, 11.125, 11.75, 11.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.75, 10.875, 12, 11.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 7.25, 8.5, 7.375, 8.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 7.375, 8.25, 7.25, 8.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.125, 8.125, 9.5 ],
+			"to": [ 3.625, 8.25, 9.75 ],
+			"faces": {
+				"down": { "uv": [ 13.375, 12.375, 13.875, 12.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.875, 12.625, 14.375, 12.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 16, 12.75, 15.5, 12.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.5, 12.625, 16, 12.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 9.875, 10, 10.125, 10.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 10.125, 8.625, 9.875, 8.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.25, 7.75, 9.375 ],
+			"to": [ 3.625, 7.875, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 15.625, 13, 16, 13.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 11, 8.125, 11.375, 8 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12.875, 12.125, 12.5, 12.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.375, 8, 11.75, 8.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 5.125, 11.375, 5.25, 11.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 5.25, 11.25, 5.125, 11.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.25, 7.75, 9.75 ],
+			"to": [ 3.625, 7.875, 9.875 ],
+			"faces": {
+				"down": { "uv": [ 13.125, 11.25, 13.5, 11.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.5, 11.375, 13.875, 11.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14.25, 11.25, 13.875, 11.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.25, 11.25, 14.625, 11.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 5.125, 11.125, 5.25, 11.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 5.25, 11, 5.125, 11.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.25, 7.875, 9.25 ],
+			"to": [ 3.75, 8.125, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 11.625, 13, 11.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13, 11.75, 13.5, 11.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.875, 12.375, 15.375, 12.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.375, 12.125, 11.875, 12.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 10.875, 8, 11, 8.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 16, 12.375, 15.875, 12.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.25, 7.875, 9.875 ],
+			"to": [ 3.875, 8.125, 10 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 10.375, 9.875, 10.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.25, 10.75, 9.875, 10.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7.375, 11.125, 6.75, 11.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.25, 13.5, 15.875, 13.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.875, 11.875, 16, 12.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.875, 10.5, 12.75, 10.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.25, 8.125, 9.375 ],
+			"to": [ 3.625, 8.25, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 12.375, 11, 12.75, 11.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.375, 11, 12.75, 10.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12.75, 10.75, 12.375, 10.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12.375, 10.625, 12.75, 10.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 5.125, 10.875, 5.25, 11 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 5.25, 10.75, 5.125, 10.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.25, 8.125, 9.75 ],
+			"to": [ 3.625, 8.25, 9.875 ],
+			"faces": {
+				"down": { "uv": [ 12.375, 10.25, 12.75, 10.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.375, 10.25, 12.75, 10.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12.75, 10, 12.375, 10.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12.375, 9.875, 12.75, 10 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 5.125, 10.625, 5.25, 10.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 5.25, 10.5, 5.125, 10.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.375, 7.75, 9.25 ],
+			"to": [ 3.625, 7.875, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 10.75, 9, 11, 9.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.75, 8.75, 11, 8.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11, 8.25, 10.75, 8.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.75, 8, 12, 8.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 7.25, 8.75, 7.375, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 16, 14.75, 15.875, 14.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.375, 7.875, 9.125 ],
+			"to": [ 3.75, 8.125, 9.25 ],
+			"faces": {
+				"down": { "uv": [ 12.375, 9.375, 12.75, 9.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.375, 9.375, 12.75, 9.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.375, 8.375, 11, 8.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11, 9.125, 11.375, 9.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.75, 9, 12.875, 9.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.875, 8.75, 12.75, 9 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.375, 8.125, 9.25 ],
+			"to": [ 3.625, 8.25, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 15.75, 11.375, 16, 11.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.75, 11.375, 16, 11.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.25, 11.125, 15, 11.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.25, 11.125, 15.5, 11.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.875, 14.625, 16, 14.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 16, 14.5, 15.875, 14.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.5, 7.75, 9 ],
+			"to": [ 3.75, 8.25, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 11.125, 15.75, 11.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.75, 11.25, 16, 11.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.25, 11.875, 11, 12.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11, 11.375, 11.25, 11.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.125, 10.5, 12.25, 11 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.125, 9.75, 12, 10.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.5, 7.75, 9.125 ],
+			"to": [ 3.625, 7.875, 9.25 ],
+			"faces": {
+				"down": { "uv": [ 15.875, 14.125, 16, 14.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.875, 14.125, 16, 14 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 10.125, 12, 10, 12.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10, 9.375, 10.125, 9.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 10, 9.25, 10.125, 9.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 10.125, 9.125, 10, 9.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.5, 7.75, 9.875 ],
+			"to": [ 3.75, 7.875, 10 ],
+			"faces": {
+				"down": { "uv": [ 13, 11, 13.25, 11.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.25, 11.125, 13.5, 11 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.625, 10.375, 15.375, 10.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.125, 10.375, 14.375, 10.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.875, 8.5, 16, 8.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.875, 8.5, 15.75, 8.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.5, 7.875, 8.875 ],
+			"to": [ 4.125, 8.125, 9 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 10.25, 9.875, 10.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.125, 12.125, 14.75, 12 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11, 11.125, 10.375, 11.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.375, 10.875, 11, 11.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.5, 10.125, 13.625, 10.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.5, 8.125, 13.375, 8.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.5, 7.875, 9.375 ],
+			"to": [ 3.625, 8.125, 9.75 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 8, 12.625, 8.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.625, 8.375, 12.75, 8 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13.5, 8.375, 13.375, 8.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.375, 8.625, 13.5, 8.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 11.375, 10.125, 11.75, 10.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 11.375, 8.875, 11, 9.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.5, 7.875, 10 ],
+			"to": [ 4, 8.125, 10.125 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 9.125, 5.25, 9.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 4.75, 9.125, 5.25, 9 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.875, 12.375, 11.375, 12.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 6.875, 12.625, 7.375, 12.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.375, 8.875, 13.5, 9.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.5, 9.625, 13.375, 9.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.5, 8.125, 9.125 ],
+			"to": [ 3.625, 8.25, 9.25 ],
+			"faces": {
+				"down": { "uv": [ 15.375, 8.625, 15.5, 8.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.75, 8.75, 14.875, 8.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.375, 8.625, 15.25, 8.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.125, 8.25, 15.25, 8.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.125, 8.375, 15.25, 8.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.25, 8.5, 15.125, 8.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.5, 8.125, 9.875 ],
+			"to": [ 3.75, 8.25, 10 ],
+			"faces": {
+				"down": { "uv": [ 13.375, 10.375, 13.625, 10.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.75, 10.75, 16, 10.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.75, 10.5, 15.5, 10.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.5, 10.625, 15.75, 10.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.25, 8.75, 15.375, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.125, 8.125, 15, 8.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.625, 7.75, 8.875 ],
+			"to": [ 3.875, 7.875, 9 ],
+			"faces": {
+				"down": { "uv": [ 14.25, 10.5, 14.5, 10.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.25, 10.75, 14.5, 10.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13.75, 10.5, 13.5, 10.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.375, 10.75, 14.625, 10.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.75, 8.875, 15.875, 9 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.75, 8.875, 15.625, 9 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.625, 7.75, 10 ],
+			"to": [ 3.875, 7.875, 10.125 ],
+			"faces": {
+				"down": { "uv": [ 14.125, 10.75, 14.375, 10.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.875, 10.875, 14.125, 10.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13.875, 10.75, 13.625, 10.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.375, 10.75, 13.625, 10.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.875, 8.125, 15, 8.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15, 8.5, 14.875, 8.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.625, 7.875, 8.75 ],
+			"to": [ 5, 8.125, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 14.625, 13.75, 16, 13.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.375, 13.375, 11.75, 13.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 6.625, 10.875, 5.25, 11.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 10.625, 6.625, 10.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.25, 10, 13.375, 10.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.375, 10.25, 13.25, 10.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.625, 7.875, 9.625 ],
+			"to": [ 3.75, 8.125, 9.875 ],
+			"faces": {
+				"down": { "uv": [ 13.25, 10.5, 13.375, 10.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.125, 10.75, 13.25, 10.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13.125, 8.125, 13, 8.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13, 8.375, 13.125, 8.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.75, 12.125, 16, 12.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.625, 11.875, 15.375, 12.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.625, 7.875, 10.125 ],
+			"to": [ 4.25, 8.125, 10.25 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 10.125, 9.875, 10.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.75, 12, 15.375, 11.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11, 11.875, 10.375, 12.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.375, 11.625, 11, 11.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13, 8.625, 13.125, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.125, 9.375, 13, 9.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.625, 8.125, 8.875 ],
+			"to": [ 3.875, 8.25, 9 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 10.875, 15.75, 11 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.25, 11, 15.5, 10.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.25, 10.875, 15, 11 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.5, 10.875, 14.75, 11 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.75, 8.75, 14.875, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.875, 8.875, 14.75, 9 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.625, 8.125, 10 ],
+			"to": [ 3.875, 8.25, 10.125 ],
+			"faces": {
+				"down": { "uv": [ 13.25, 10.875, 13.5, 11 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13, 11, 13.25, 10.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 16, 11, 15.75, 11.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.5, 11, 15.75, 11.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.25, 9.125, 15.375, 9.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15, 9.125, 14.875, 9.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.75, 7.75, 8.75 ],
+			"to": [ 4.875, 7.875, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 12.125, 12.875, 13.25, 13 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 11.375, 12.75, 12.5, 12.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.625, 13, 14.5, 13.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11, 12.875, 12.125, 13 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.75, 9.125, 14.875, 9.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.75, 8, 14.625, 8.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.75, 7.75, 10.125 ],
+			"to": [ 4, 7.875, 10.25 ],
+			"faces": {
+				"down": { "uv": [ 15.25, 11, 15.5, 11.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15, 11.125, 15.25, 11 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14, 11, 13.75, 11.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.5, 11, 13.75, 11.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.625, 8.875, 14.75, 9 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 16, 9.25, 15.875, 9.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.75, 7.875, 9 ],
+			"to": [ 3.875, 8.125, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 15.75, 9.25, 15.875, 9.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.875, 8.5, 16, 8.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13, 10.375, 12.875, 10.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12.75, 8, 12.875, 8.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.75, 8.25, 12.875, 8.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.875, 8.5, 12.75, 8.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.75, 7.875, 10.25 ],
+			"to": [ 4.625, 8.125, 10.375 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 11.625, 10.125, 11.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.25, 10.875, 10.125, 10.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 8.25, 8.25, 7.375, 8.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 7.375, 9, 8.25, 9.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.75, 9.25, 12.875, 9.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.875, 9.5, 12.75, 9.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.75, 8.125, 8.75 ],
+			"to": [ 4.875, 8.25, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 13.25, 12.875, 14.375, 13 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.125, 12.875, 13.25, 12.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.5, 12.875, 14.375, 13 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11, 12.75, 12.125, 12.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.625, 8.625, 15.75, 8.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.625, 8.625, 15.5, 8.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.75, 8.125, 10.125 ],
+			"to": [ 4, 8.25, 10.25 ],
+			"faces": {
+				"down": { "uv": [ 9.875, 8.25, 10.125, 8.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.875, 8.625, 10.125, 8.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.75, 9.625, 15.5, 9.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.25, 9.625, 15.5, 9.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.375, 8.875, 15.5, 9 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.375, 8.875, 15.25, 9 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.875, 7.75, 10.25 ],
+			"to": [ 9, 7.875, 10.375 ],
+			"faces": {
+				"down": { "uv": [ 0, 11, 5.125, 11.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 0, 10.75, 5.125, 10.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.125, 10.75, 0, 10.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 10.875, 5.125, 11 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.125, 8.875, 15.25, 9 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15, 8.25, 14.875, 8.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.875, 7.875, 8.625 ],
+			"to": [ 4.75, 8.125, 8.75 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 11.25, 10.125, 11.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.25, 11.5, 10.125, 11.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 8.25, 8.5, 7.375, 8.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 7.375, 8.75, 8.25, 9 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.375, 8.875, 14.5, 9.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.5, 9.125, 14.375, 9.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.875, 7.875, 10.375 ],
+			"to": [ 4.25, 8.125, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 9.75, 5.25, 9.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 4.875, 9.75, 5.25, 9.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.75, 10.875, 11.375, 11.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.375, 10.375, 11.75, 10.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.25, 8.375, 14.375, 8.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.375, 8.625, 14.25, 8.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 3.875, 8.125, 10.25 ],
+			"to": [ 9, 8.25, 10.375 ],
+			"faces": {
+				"down": { "uv": [ 0, 11.125, 5.125, 11.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 0, 11.375, 5.125, 11.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.125, 10.5, 0, 10.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 11.375, 5.125, 11.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.375, 9, 15.5, 9.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.125, 9, 15, 9.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4, 7.75, 10.375 ],
+			"to": [ 8.625, 7.875, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 0, 8.25, 4.625, 8.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 0, 8.5, 4.625, 8.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 4.625, 8.5, 0, 8.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 8.625, 4.625, 8.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.875, 9, 15, 9.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.875, 8, 14.75, 8.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4, 7.875, 10.5 ],
+			"to": [ 4.25, 8.125, 10.625 ],
+			"faces": {
+				"down": { "uv": [ 15, 9.625, 15.25, 9.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.75, 9.75, 15, 9.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12, 8.875, 11.75, 9.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.75, 11.375, 12, 11.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.25, 9.375, 14.375, 9.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.25, 8, 14.125, 8.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4, 8.125, 10.375 ],
+			"to": [ 8.625, 8.25, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 9.875, 15.125, 14.5, 15.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 5.25, 15.25, 9.875, 15.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 4.625, 8, 0, 8.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 8.125, 4.625, 8.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.375, 8.25, 15.5, 8.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.5, 8.375, 15.375, 8.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.125, 7.75, 8.625 ],
+			"to": [ 4.625, 7.875, 8.75 ],
+			"faces": {
+				"down": { "uv": [ 4.75, 8.875, 5.25, 9 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 4.75, 8.875, 5.25, 8.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 10.125, 13.375, 9.625, 13.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.5, 13.125, 16, 13.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.625, 8.5, 15.75, 8.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.375, 8.5, 15.25, 8.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.125, 7.75, 10.5 ],
+			"to": [ 8.375, 7.875, 10.625 ],
+			"faces": {
+				"down": { "uv": [ 5.25, 15, 9.5, 15.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.5, 15.125, 13.75, 15 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 9.5, 14.875, 5.25, 15 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 9.5, 14.875, 13.75, 15 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.125, 8.625, 15.25, 8.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.875, 8.75, 15.75, 8.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.125, 7.875, 10.625 ],
+			"to": [ 5.75, 8.125, 10.75 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 8.25, 9.875, 8.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 8.25, 8.5, 9.875, 8.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 6.875, 12.875, 5.25, 13.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 12.375, 6.875, 12.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.875, 9.75, 16, 10 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.875, 9.75, 15.75, 10 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.125, 8.125, 8.625 ],
+			"to": [ 4.625, 8.25, 8.75 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 12.875, 16, 13 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12, 11.875, 12.5, 11.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13, 11.75, 12.5, 11.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13, 11.75, 13.5, 11.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.625, 8.625, 14.75, 8.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.75, 8.75, 14.625, 8.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.125, 8.125, 10.5 ],
+			"to": [ 8.375, 8.25, 10.625 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 14.75, 11.625, 14.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 11.625, 14.75, 15.875, 14.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.875, 14.75, 11.625, 14.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 7.375, 14.625, 11.625, 14.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.625, 8.375, 15.75, 8.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.625, 8.375, 15.5, 8.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.375, 7.875, 10.125 ],
+			"to": [ 4.875, 8.125, 10.25 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 11.75, 14, 11.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14, 11.875, 14.5, 11.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 15.25, 4.75, 15.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 4.75, 15, 5.25, 15.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.125, 9.75, 14.25, 10 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.125, 8, 14, 8.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.375, 7.875, 10.5 ],
+			"to": [ 4.875, 8.125, 10.625 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 11.75, 15, 11.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15, 11.875, 15.5, 11.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7.375, 13.125, 6.875, 13.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 6.875, 12.875, 7.375, 13.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14, 8.75, 14.125, 9 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.125, 9, 14, 9.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.5, 7.875, 8.875 ],
+			"to": [ 5.125, 8.125, 9 ],
+			"faces": {
+				"down": { "uv": [ 12.375, 13.375, 13, 13.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.125, 13.5, 13.75, 13.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11, 12.125, 10.375, 12.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.375, 12.375, 11, 12.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14, 9.25, 14.125, 9.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.125, 9.5, 14, 9.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.625, 7.75, 10.125 ],
+			"to": [ 10, 7.875, 10.25 ],
+			"faces": {
+				"down": { "uv": [ 5.25, 15.75, 10.625, 15.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.625, 15.5, 16, 15.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 10.625, 15.375, 5.25, 15.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.625, 15.5, 16, 15.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.625, 8.75, 15.75, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.25, 8.75, 15.125, 8.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.625, 7.875, 10 ],
+			"to": [ 5, 8.125, 10.125 ],
+			"faces": {
+				"down": { "uv": [ 14.625, 11.25, 15, 11.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15, 11.375, 15.375, 11.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7.375, 13.625, 7, 13.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11, 8.625, 11.375, 8.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.875, 8.875, 14, 9.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14, 9.125, 13.875, 9.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.625, 8.125, 10.125 ],
+			"to": [ 10, 8.25, 10.25 ],
+			"faces": {
+				"down": { "uv": [ 5.25, 15.5, 10.625, 15.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.625, 15.75, 16, 15.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 10.625, 15.625, 5.25, 15.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.625, 15.75, 16, 15.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.125, 8, 15.25, 8.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.25, 8.125, 15.125, 8.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.75, 7.75, 8.875 ],
+			"to": [ 5, 7.875, 9 ],
+			"faces": {
+				"down": { "uv": [ 15.25, 10, 15.5, 10.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15, 10.125, 15.25, 10 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14.5, 10, 14.25, 10.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14, 10, 14.25, 10.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.375, 8, 15.5, 8.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.5, 8.125, 15.375, 8.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.75, 7.875, 9 ],
+			"to": [ 5.25, 8.125, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 11.75, 16, 11.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12, 11.75, 12.5, 11.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7.375, 12.375, 6.875, 12.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.375, 8, 10.875, 8.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.75, 8.625, 13.875, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.875, 8.875, 13.75, 9.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.75, 8.125, 8.875 ],
+			"to": [ 5, 8.25, 9 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 10.125, 15.75, 10.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.25, 10.25, 15.5, 10.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.25, 10.125, 15, 10.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.75, 10.125, 15, 10.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.75, 9, 14.875, 9.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 16, 9.125, 15.875, 9.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.875, 7.75, 9 ],
+			"to": [ 5.125, 7.875, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 10.125, 14.75, 10.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.25, 10.25, 14.5, 10.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14.25, 10.125, 14, 10.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.75, 10.125, 14, 10.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.75, 8.5, 14.875, 8.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.875, 8.125, 14.75, 8.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.875, 7.75, 9.875 ],
+			"to": [ 10.25, 7.875, 10 ],
+			"faces": {
+				"down": { "uv": [ 10.625, 15.875, 16, 16 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 5.25, 16, 10.625, 15.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 10.625, 15.25, 5.25, 15.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.625, 15.25, 16, 15.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.5, 9, 15.625, 9.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.75, 9, 15.625, 9.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.875, 7.75, 10 ],
+			"to": [ 10.125, 7.875, 10.125 ],
+			"faces": {
+				"down": { "uv": [ 0, 11.5, 5.25, 11.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 0, 11.75, 5.25, 11.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 12, 0, 12.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 12.375, 5.25, 12.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.5, 8.875, 15.625, 9 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 16, 8.875, 15.875, 9 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.875, 7.75, 10.625 ],
+			"to": [ 7.875, 7.875, 10.75 ],
+			"faces": {
+				"down": { "uv": [ 10.375, 14.375, 13.375, 14.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 14.5, 10.375, 14.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13.375, 14.25, 10.375, 14.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.375, 14.125, 13.375, 14.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15, 8.25, 15.125, 8.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.125, 8, 15, 8.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.875, 7.875, 9.125 ],
+			"to": [ 5.25, 8.125, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 11.375, 8.125, 11.75, 8.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 11.375, 8.875, 11.75, 8.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12.125, 11.875, 11.75, 12.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12.125, 11.875, 12.5, 12.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 11.75, 10.625, 12, 10.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12, 8.625, 11.75, 8.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.875, 7.875, 9.75 ],
+			"to": [ 5.125, 8.125, 9.875 ],
+			"faces": {
+				"down": { "uv": [ 15.125, 10.25, 15.375, 10.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.875, 10.375, 15.125, 10.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12, 10.375, 11.75, 10.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.75, 10.125, 12, 10.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.625, 9, 13.75, 9.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.75, 9.25, 13.625, 9.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.875, 7.875, 9.875 ],
+			"to": [ 5.125, 8, 10 ],
+			"faces": {
+				"down": { "uv": [ 14.625, 10.25, 14.875, 10.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.375, 10.375, 14.625, 10.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14.375, 10.25, 14.125, 10.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.875, 10.25, 14.125, 10.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15, 8.625, 15.125, 8.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.125, 8.5, 15, 8.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.875, 8, 9.875 ],
+			"to": [ 5, 8.25, 10 ],
+			"faces": {
+				"down": { "uv": [ 15.625, 9.25, 15.75, 9.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.5, 9.375, 15.625, 9.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13.625, 8.375, 13.5, 8.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.5, 8.625, 13.625, 8.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.5, 9.375, 13.625, 9.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.625, 9.625, 13.5, 9.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.875, 8.125, 9 ],
+			"to": [ 5.125, 8.25, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 15.125, 10.375, 15.375, 10.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.875, 10.5, 15.125, 10.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14.875, 10.375, 14.625, 10.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.375, 10.375, 14.625, 10.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.625, 9.25, 14.75, 9.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.625, 8, 14.5, 8.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.875, 8.125, 10 ],
+			"to": [ 10.125, 8.25, 10.125 ],
+			"faces": {
+				"down": { "uv": [ 0, 12.25, 5.25, 12.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 0, 12.25, 5.25, 12.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 11.875, 0, 12 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 11.75, 5.25, 11.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.5, 8.125, 14.625, 8.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.625, 8.25, 14.5, 8.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 4.875, 8.125, 10.625 ],
+			"to": [ 5, 8.25, 10.75 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 8.625, 14.625, 8.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.5, 8.875, 14.625, 8.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14.625, 8.875, 14.5, 9 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.5, 9, 14.625, 9.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.875, 9.375, 16, 9.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.875, 9.375, 15.75, 9.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 7.75, 9.125 ],
+			"to": [ 5.25, 7.875, 9.875 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 13, 10.375, 13.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.125, 13, 10.375, 12.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.25, 10.5, 15, 10.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15, 10.625, 15.25, 10.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 9.375, 12.625, 10.125, 12.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 10.125, 12.75, 9.375, 12.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 7.875, 9.375 ],
+			"to": [ 5.125, 8.25, 9.75 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 10.25, 12.375, 10.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.25, 11, 12.375, 10.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 8.25, 5.125, 8.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12.75, 10.75, 12.875, 11.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 11, 12.375, 11.375, 12.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 10.75, 8.625, 10.375, 9 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 8.125, 9.125 ],
+			"to": [ 5.25, 8.25, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 11.75, 9.875, 12, 10.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 11.75, 9.875, 12, 9.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13.75, 10.625, 13.5, 10.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.625, 10.75, 15.875, 10.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.375, 10.75, 15.625, 10.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.375, 10.75, 15.125, 10.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5, 8.125, 9.75 ],
+			"to": [ 10.25, 8.25, 10 ],
+			"faces": {
+				"down": { "uv": [ 0, 15.5, 5.25, 15.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 0, 16, 5.25, 15.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 12.625, 0, 12.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 12.5, 5.25, 12.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.875, 10.75, 15.125, 10.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.875, 10.75, 14.625, 10.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.125, 7.875, 10.75 ],
+			"to": [ 5.25, 8.125, 10.875 ],
+			"faces": {
+				"down": { "uv": [ 15.5, 9.375, 15.625, 9.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.75, 9.625, 14.875, 9.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13.25, 8.75, 13.125, 9 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.125, 9, 13.25, 9.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.125, 9.25, 13.25, 9.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.25, 10, 13.125, 10.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.125, 8.125, 9.375 ],
+			"to": [ 5.5, 8.25, 9.75 ],
+			"faces": {
+				"down": { "uv": [ 10.375, 9.375, 10.75, 9.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.375, 10.125, 10.75, 9.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 10, 4.875, 10.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12.375, 8.375, 12.75, 8.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.375, 8.5, 12.75, 8.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.75, 9.5, 12.375, 9.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.125, 8.125, 10.625 ],
+			"to": [ 7.875, 8.25, 10.75 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 13.875, 10.125, 14 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.875, 14, 15.625, 13.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12.875, 13.875, 10.125, 14 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 7.375, 13.75, 10.125, 13.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.875, 10.25, 16, 10.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.625, 8, 13.5, 8.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.25, 7.75, 9.25 ],
+			"to": [ 5.375, 8.25, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 13.375, 8, 13.5, 8.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.875, 10.5, 16, 10.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.375, 11.875, 11.25, 12.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.25, 11.375, 11.375, 11.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 11.25, 10.875, 11.375, 11.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 11.375, 10.375, 11.25, 10.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.25, 7.75, 9.375 ],
+			"to": [ 5.5, 7.875, 9.875 ],
+			"faces": {
+				"down": { "uv": [ 11, 10.875, 11.25, 11.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 11, 10.875, 11.25, 10.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15, 10.875, 14.75, 11 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.75, 10.5, 16, 10.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.5, 11.625, 14, 11.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.5, 11.625, 14, 11.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.375, 7.875, 9.25 ],
+			"to": [ 5.5, 8.125, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 14.375, 9.75, 14.5, 10 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.25, 10, 14.375, 9.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14, 9.375, 13.875, 9.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.625, 8.5, 13.75, 8.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 11.75, 9.375, 12, 9.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12, 9.125, 11.75, 9.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.375, 7.875, 10.75 ],
+			"to": [ 7.5, 8.125, 10.875 ],
+			"faces": {
+				"down": { "uv": [ 5.25, 8.875, 7.375, 9 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 5.25, 9.375, 7.375, 9.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 14.5, 3.125, 14.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 14.375, 7.375, 14.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.625, 8.75, 13.75, 9 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.875, 10.5, 13.75, 10.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.5, 7.75, 9.5 ],
+			"to": [ 10.375, 7.875, 9.625 ],
+			"faces": {
+				"down": { "uv": [ 0, 10, 4.875, 10.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 0, 9.625, 4.875, 9.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 4.875, 10.125, 0, 10.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 10.375, 4.875, 10.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.375, 8, 14.5, 8.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.375, 8, 14.25, 8.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.5, 7.75, 9.625 ],
+			"to": [ 10.25, 7.875, 9.875 ],
+			"faces": {
+				"down": { "uv": [ 0, 15, 4.75, 15.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 0, 15.5, 4.75, 15.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 4.75, 8.75, 0, 8.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 9.125, 4.75, 9.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.125, 10.75, 13.375, 10.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 16, 10.875, 15.75, 11 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.5, 7.875, 9.375 ],
+			"to": [ 6.25, 8.125, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 9.375, 13, 10.125, 13.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.375, 13.25, 10.125, 13.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7.375, 10.875, 6.625, 11.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 8.25, 8, 9, 8.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13, 9.625, 13.125, 9.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.125, 9.875, 13, 10.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.5, 8.125, 9.5 ],
+			"to": [ 10.375, 8.25, 9.625 ],
+			"faces": {
+				"down": { "uv": [ 0, 9.625, 4.875, 9.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 0, 10, 4.875, 9.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 4.875, 9.75, 0, 9.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 10.25, 4.875, 10.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.75, 8, 13.875, 8.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 16, 9.625, 15.875, 9.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 5.5, 8.125, 9.625 ],
+			"to": [ 10.25, 8.25, 9.75 ],
+			"faces": {
+				"down": { "uv": [ 0, 9.25, 4.75, 9.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 0, 9, 4.75, 8.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 4.75, 9.375, 0, 9.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 9, 4.75, 9.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.75, 9.5, 15.875, 9.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 16, 9.5, 15.875, 9.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.125, 7.75, 9.375 ],
+			"to": [ 6.5, 7.875, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 12.375, 11.25, 12.75, 11.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.75, 11.375, 13.125, 11.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13.875, 11.125, 13.5, 11.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.875, 11.125, 14.25, 11.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.875, 8.75, 15, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.875, 9, 15.75, 9.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.125, 7.875, 9.25 ],
+			"to": [ 6.5, 8.125, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 12.375, 9.75, 12.75, 9.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.375, 9.75, 12.75, 9.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.75, 11.625, 11.375, 11.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.375, 8.875, 11.75, 9.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.875, 9.875, 14, 10.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14, 9.625, 13.875, 9.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.125, 8.125, 9.375 ],
+			"to": [ 6.75, 8.25, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 14.75, 12, 15.375, 12.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.25, 10.125, 9.875, 10 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12.5, 12.125, 11.875, 12.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.125, 11.875, 14.75, 12 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.875, 8.75, 16, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.875, 8.625, 15.75, 8.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.25, 7.75, 9.25 ],
+			"to": [ 6.375, 7.875, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 15.875, 8.625, 16, 8.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.25, 8.125, 15.375, 8 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.5, 8.5, 15.375, 8.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.75, 8.375, 15.875, 8.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 10, 9, 10.125, 9.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 10.125, 8.875, 10, 9 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.25, 7.75, 10.75 ],
+			"to": [ 6.5, 7.875, 10.875 ],
+			"faces": {
+				"down": { "uv": [ 14, 11, 14.25, 11.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.25, 11.125, 14.5, 11 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14.75, 11, 14.5, 11.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.75, 11, 15, 11.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 10, 8.75, 10.125, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.375, 13.375, 12.25, 13.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.25, 8.125, 9.25 ],
+			"to": [ 6.375, 8.25, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 13, 13.375, 13.125, 13.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.75, 13.5, 13.875, 13.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 16, 13.375, 15.875, 13.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.875, 13.25, 16, 13.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.125, 9.75, 12.25, 9.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13, 8, 12.875, 8.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.25, 8.125, 10.75 ],
+			"to": [ 6.5, 8.25, 10.875 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 10.875, 13.75, 11 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.75, 11, 14, 10.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14.25, 10.875, 14, 11 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.25, 10.875, 14.5, 11 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13, 8, 13.125, 8.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 16, 10.75, 15.875, 10.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.375, 7.875, 9.375 ],
+			"to": [ 6.75, 8.125, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 12.375, 10.5, 12.75, 10.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.375, 10.5, 12.75, 10.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12.875, 11.875, 12.5, 12.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.375, 10.625, 11.75, 10.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.875, 8.625, 13, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13, 8.375, 12.875, 8.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 6.625, 7.875, 9.5 ],
+			"to": [ 7.25, 8.125, 9.625 ],
+			"faces": {
+				"down": { "uv": [ 4.625, 8.625, 5.25, 8.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.375, 12.125, 10, 12 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11, 10.625, 10.375, 10.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.375, 11.375, 11, 11.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.875, 8.125, 13, 8.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.125, 10.625, 13, 10.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.125, 7.875, 9.375 ],
+			"to": [ 7.5, 8.125, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 12.375, 8.75, 12.75, 8.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.375, 8.75, 12.75, 8.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7.375, 13.375, 7, 13.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 9.75, 8, 10.125, 8.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13, 10.375, 13.125, 10.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.125, 10.125, 13, 10.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.25, 7.75, 9.375 ],
+			"to": [ 7.75, 7.875, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 11.625, 15, 11.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15, 11.75, 15.5, 11.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 16, 11.625, 15.5, 11.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12, 11.5, 12.5, 11.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.875, 8, 14, 8.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.875, 9.625, 15.75, 9.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.25, 8.125, 9.375 ],
+			"to": [ 7.75, 8.25, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 11.5, 13, 11.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13, 11.625, 13.5, 11.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14, 11.5, 13.5, 11.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14, 11.5, 14.5, 11.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.625, 9.5, 14.75, 9.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.75, 9.375, 14.625, 9.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.375, 7.875, 9.25 ],
+			"to": [ 7.75, 8.125, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 10.25, 5.25, 10.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 4.875, 10.25, 5.25, 10.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.375, 9.625, 11, 9.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11, 8.125, 11.375, 8.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.125, 9.75, 13.25, 10 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.25, 9.5, 13.125, 9.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.375, 7.875, 10.625 ],
+			"to": [ 8.375, 8.125, 10.75 ],
+			"faces": {
+				"down": { "uv": [ 11.875, 12.25, 12.875, 12.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.5, 12.75, 15.5, 12.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7.25, 8.25, 6.25, 8.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 6.25, 8.5, 7.25, 8.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.125, 8.25, 13.25, 8.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.25, 8, 13.125, 8.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5, 7.75, 9.25 ],
+			"to": [ 7.625, 7.875, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 14.75, 9.375, 14.875, 9.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.875, 9.625, 15, 9.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15, 9.375, 14.875, 9.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15, 9.5, 15.125, 9.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15, 9.375, 15.125, 9.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.25, 9.5, 15.125, 9.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.5, 8.125, 9.25 ],
+			"to": [ 7.625, 8.25, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 15.125, 9.375, 15.25, 9.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.25, 9.625, 15.375, 9.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.375, 9.375, 15.25, 9.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.375, 9.5, 15.5, 9.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.375, 9.375, 15.5, 9.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.625, 9.5, 15.5, 9.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.625, 7.875, 9.375 ],
+			"to": [ 8.5, 8.125, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 11.125, 10.125, 11.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.25, 11.125, 10.125, 11 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7.375, 10.125, 6.5, 10.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 6.5, 10.375, 7.375, 10.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.25, 8.5, 13.375, 8.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.375, 8.25, 13.25, 8.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.25, 7.875, 10.5 ],
+			"to": [ 8.625, 8.125, 10.625 ],
+			"faces": {
+				"down": { "uv": [ 12.75, 11.125, 13.125, 11.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.125, 11.25, 13.5, 11.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.75, 12.125, 15.375, 12.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.375, 11.875, 11.75, 12.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.25, 8, 13.375, 8.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.5, 10.5, 13.375, 10.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.375, 7.75, 9.375 ],
+			"to": [ 10.375, 7.875, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 13.125, 9.375, 13.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 13.375, 9.375, 13.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 9.375, 12, 7.375, 12.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 8.75, 7.25, 8.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.625, 9.5, 15.75, 9.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.75, 9.375, 15.625, 9.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.375, 7.875, 9.25 ],
+			"to": [ 8.625, 8.125, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 14, 10.625, 14.25, 10.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14, 10.625, 14.25, 10.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12, 8.375, 11.75, 8.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.75, 8.125, 12, 8.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.5, 10.5, 14.625, 10.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.75, 10.5, 14.625, 10.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.375, 7.875, 10.375 ],
+			"to": [ 8.875, 8.125, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 11.5, 15, 11.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15, 11.625, 15.5, 11.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.375, 12.375, 14.875, 12.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.375, 12.375, 14.875, 12.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.75, 10.5, 14.875, 10.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15, 10.5, 14.875, 10.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.375, 8.125, 9.375 ],
+			"to": [ 10.375, 8.25, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 12.25, 9.375, 12.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 12.625, 9.375, 12.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 9.375, 12.875, 7.375, 13 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 7.375, 13, 9.375, 13.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.5, 9.25, 14.625, 9.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.625, 9.125, 14.5, 9.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.5, 7.75, 9.25 ],
+			"to": [ 10.375, 7.875, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 11.625, 9.25, 11.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 10.25, 9.25, 10.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 9.25, 10.25, 7.375, 10.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 7.375, 10.375, 9.25, 10.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.5, 8.5, 14.625, 8.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.625, 8.375, 14.5, 8.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.5, 7.875, 9.125 ],
+			"to": [ 8.75, 8.125, 9.25 ],
+			"faces": {
+				"down": { "uv": [ 13.625, 10.375, 13.875, 10.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.875, 10.5, 14.125, 10.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12.25, 11.25, 12, 11.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12, 11, 12.25, 11.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.375, 9.375, 13.5, 9.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.5, 9.125, 13.375, 9.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.5, 8.125, 9.25 ],
+			"to": [ 10.375, 8.25, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 10.5, 9.25, 10.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 10.75, 9.25, 10.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 9.25, 11, 7.375, 11.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 7.375, 11.125, 9.25, 11.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.75, 9.25, 14.875, 9.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15, 9.25, 14.875, 9.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.625, 7.75, 9.125 ],
+			"to": [ 10.375, 7.875, 9.25 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 9, 10, 9.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 8.25, 9.25, 10, 9.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 10, 9.25, 8.25, 9.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 8.25, 9.375, 10, 9.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15, 9.25, 15.125, 9.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.25, 9.25, 15.125, 9.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.625, 7.875, 8.875 ],
+			"to": [ 8.875, 8.25, 9 ],
+			"faces": {
+				"down": { "uv": [ 15.625, 10.375, 15.875, 10.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.625, 10.375, 13.875, 10.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11, 9.75, 10.75, 10.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.75, 9.375, 11, 9.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.25, 9.875, 12.375, 10.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.375, 9.5, 12.25, 9.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.625, 7.875, 9 ],
+			"to": [ 8.75, 8.25, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 15.25, 9.25, 15.375, 9.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.375, 9.375, 15.5, 9.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12.375, 8.375, 12.25, 8.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12.25, 8, 12.375, 8.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.375, 8.875, 12.5, 9.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.625, 8.875, 12.5, 9.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.625, 8.125, 9.125 ],
+			"to": [ 10.375, 8.25, 9.25 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 9.5, 9.125, 9.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 9.75, 9.125, 9.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 9.125, 9.75, 7.375, 9.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 7.375, 9.875, 9.125, 10 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.25, 8.125, 15.375, 8.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.375, 8.25, 15.25, 8.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.75, 7.75, 8.375 ],
+			"to": [ 9.25, 7.875, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 5.75, 11.625, 6.25, 12.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 5.25, 12.375, 5.75, 11.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 16, 11.5, 15.5, 11.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12.25, 11.375, 12.75, 11.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 9.375, 12.375, 10.125, 12.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 10.125, 12.25, 9.375, 12.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.75, 7.875, 8.25 ],
+			"to": [ 9.125, 8.125, 8.375 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 9.5, 5.25, 9.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.625, 14, 16, 13.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.75, 11.375, 11.375, 11.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.375, 11.125, 11.75, 11.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.625, 9.75, 13.75, 10 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.75, 9.5, 13.625, 9.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.75, 7.875, 8.375 ],
+			"to": [ 8.875, 8.25, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 11.25, 9.875, 11.375, 10.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12, 11, 12.125, 10.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 12.375, 9.125, 12.25, 9.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12.25, 8.75, 12.375, 9.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 4.625, 8.25, 5.125, 8.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 10.875, 13.375, 10.375, 13.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.75, 7.875, 10.25 ],
+			"to": [ 9.25, 8.125, 10.375 ],
+			"faces": {
+				"down": { "uv": [ 12.75, 11.375, 13.25, 11.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.25, 11.5, 13.75, 11.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.375, 12.125, 14.875, 12.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.375, 12.125, 14.875, 12.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.625, 8.25, 13.75, 8.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.75, 8, 13.625, 8.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.75, 8.125, 9 ],
+			"to": [ 10.125, 8.25, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 13.875, 13.5, 15.25, 13.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.875, 13.5, 12.25, 13.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.25, 13.625, 13.875, 13.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.875, 13.375, 15.25, 13.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.875, 8.375, 15, 8.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15, 8.625, 14.875, 8.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 8.875, 8.125, 8.375 ],
+			"to": [ 9.125, 8.25, 9 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 11.625, 10.375, 12.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.125, 10.375, 10.375, 9.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.625, 10.25, 15.375, 10.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.625, 10.25, 15.875, 10.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.875, 12, 13.5, 12.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.875, 13.375, 15.25, 13.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.125, 7.875, 8.375 ],
+			"to": [ 12.25, 8.125, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 14.5, 10.5, 14.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.5, 14.625, 13.625, 14.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 3.125, 14.75, 0, 15 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 14.5, 3.125, 14.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.75, 9.875, 13.875, 10.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.875, 9.625, 13.75, 9.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.125, 7.875, 8.5 ],
+			"to": [ 12.125, 8.125, 8.625 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 14.25, 10.375, 14.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 14.25, 10.375, 14.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 3, 14.25, 0, 14.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 14, 3, 14.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.75, 9.375, 13.875, 9.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.875, 9.125, 13.75, 9.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.125, 7.875, 10.125 ],
+			"to": [ 10.25, 8.125, 10.25 ],
+			"faces": {
+				"down": { "uv": [ 13.25, 12.75, 14.375, 12.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.25, 13.125, 13.375, 13 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 6.375, 9.375, 5.25, 9.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 6.25, 11.625, 7.375, 11.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.75, 8.375, 13.875, 8.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.875, 8.125, 13.75, 8.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.125, 8.125, 8.5 ],
+			"to": [ 9.375, 8.25, 9 ],
+			"faces": {
+				"down": { "uv": [ 11, 9.875, 11.25, 10.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.125, 8.75, 10.375, 8.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 16, 10.125, 15.75, 10.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 9.875, 8.375, 10.125, 8.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.75, 11.375, 14.25, 11.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.75, 11.375, 14.25, 11.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.25, 7.75, 8.5 ],
+			"to": [ 9.5, 7.875, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 11, 10.375, 11.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.125, 11, 10.375, 10.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14.75, 10, 14.5, 10.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.75, 10, 15, 10.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.875, 11.875, 13.5, 12 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.125, 12, 13.5, 12.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.25, 7.875, 8.625 ],
+			"to": [ 12.125, 8.125, 8.75 ],
+			"faces": {
+				"down": { "uv": [ 10.25, 14, 13.125, 14.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 14.125, 10.25, 14 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 2.875, 13.75, 0, 14 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 13.5, 2.875, 13.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.875, 8.625, 14, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14, 8.375, 13.875, 8.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.25, 7.875, 8.75 ],
+			"to": [ 12, 8.125, 8.875 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 13.625, 10.125, 13.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.125, 14.125, 15.875, 14 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 2.75, 13.25, 0, 13.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 0, 13, 2.75, 13.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.875, 8.125, 14, 8.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.125, 9.75, 14, 10 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.375, 7.875, 8.875 ],
+			"to": [ 11.875, 8.125, 9 ],
+			"faces": {
+				"down": { "uv": [ 13.375, 14.125, 15.875, 14.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 13.625, 9.875, 13.5 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 13.25, 2.75, 13.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 2.75, 13, 5.25, 13.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14, 8.5, 14.125, 8.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.125, 8.25, 14, 8.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.375, 8.125, 8.625 ],
+			"to": [ 9.5, 8.25, 9 ],
+			"faces": {
+				"down": { "uv": [ 12.25, 11, 12.375, 11.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.125, 10.25, 12.25, 9.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 16, 9, 15.875, 9.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.875, 8.875, 15, 9 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.625, 11.125, 15, 11.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.625, 11.125, 14.25, 11.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.5, 7.75, 8.625 ],
+			"to": [ 9.75, 7.875, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 10.125, 8.75, 10.375, 9.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.125, 9.75, 10.375, 9.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.75, 10, 15.5, 10.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.75, 10, 16, 10.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.75, 11.375, 15.25, 11.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.75, 11.375, 15.25, 11.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.5, 7.875, 9 ],
+			"to": [ 11.75, 8.125, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 13.625, 14.5, 15.875, 14.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 13.5, 9.625, 13.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.125, 13.5, 2.875, 13.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 2.875, 13.75, 5.125, 14 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.5, 9.75, 14.625, 10 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.75, 9.75, 14.625, 10 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.5, 8.125, 8.75 ],
+			"to": [ 9.625, 8.25, 9 ],
+			"faces": {
+				"down": { "uv": [ 14.75, 9.75, 14.875, 10 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.875, 10, 15, 9.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.25, 9, 15.125, 9.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.25, 9, 15.375, 9.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15, 9.875, 15.25, 10 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.25, 9.75, 15, 9.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.625, 8.125, 8.875 ],
+			"to": [ 9.875, 8.25, 9 ],
+			"faces": {
+				"down": { "uv": [ 15.25, 9.875, 15.5, 10 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.25, 9.875, 15.5, 9.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.75, 9.875, 15.5, 10 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.5, 9.75, 15.75, 9.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.875, 8, 15, 8.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.125, 8.875, 15, 9 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.75, 7.75, 8.75 ],
+			"to": [ 9.875, 7.875, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 12.375, 8, 12.5, 8.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.625, 9.25, 12.75, 8.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.125, 8.75, 15, 8.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15, 8.375, 15.125, 8.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.375, 11.125, 12.75, 11.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.75, 11.25, 15.375, 11.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.75, 7.875, 8.25 ],
+			"to": [ 12.375, 8.125, 8.375 ],
+			"faces": {
+				"down": { "uv": [ 13.375, 14.375, 16, 14.5 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.375, 14.375, 16, 14.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 2.625, 12.75, 0, 13 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 2.625, 12.75, 5.25, 13 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.125, 9.5, 14.25, 9.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.25, 9.25, 14.125, 9.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.75, 7.875, 9.125 ],
+			"to": [ 11.625, 8.125, 9.25 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 10.75, 9.25, 10.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 11, 9.25, 10.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7.125, 14.125, 5.25, 14.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 13.875, 7.125, 14.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.125, 9, 14.25, 9.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.25, 8.75, 14.125, 9 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 9.875, 7.75, 8.875 ],
+			"to": [ 10, 7.875, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 14.125, 8.5, 14.25, 8.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.125, 8.5, 14.25, 8.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 14.75, 9.125, 14.625, 9.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.625, 9, 14.75, 9.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.25, 9.625, 14.5, 9.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.75, 9.625, 14.5, 9.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10, 7.75, 9 ],
+			"to": [ 10.125, 7.875, 9.125 ],
+			"faces": {
+				"down": { "uv": [ 14.625, 8.5, 14.75, 8.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 14.625, 8.25, 14.75, 8.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 15.5, 9.125, 15.375, 9.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 15.5, 9.125, 15.625, 9.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.625, 9.125, 15.75, 9.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.875, 9.125, 15.75, 9.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10, 7.875, 9.25 ],
+			"to": [ 11.5, 8, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 10.875, 13.625, 12.375, 13.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.125, 13.875, 14.625, 13.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.625, 13.75, 10.125, 13.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.5, 15.125, 16, 15.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.75, 8.375, 14.875, 8.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.875, 8.25, 14.75, 8.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.125, 7.875, 8.125 ],
+			"to": [ 12.375, 8.125, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 13.75, 15, 16, 15.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.75, 15, 16, 14.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 14.25, 3, 14.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 3, 14, 5.25, 14.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.25, 9.125, 14.375, 9.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.375, 8.875, 14.25, 9.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.125, 7.875, 9.5 ],
+			"to": [ 11.125, 8.125, 9.625 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 12.625, 14.5, 12.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.125, 10, 10.125, 9.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 8.375, 11.75, 7.375, 12 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 6.25, 8, 7.25, 8.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.25, 8.125, 14.375, 8.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.5, 9.375, 14.375, 9.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.125, 7.875, 9.625 ],
+			"to": [ 10.875, 8.125, 9.75 ],
+			"faces": {
+				"down": { "uv": [ 9.375, 12.5, 10.125, 12.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.375, 12.25, 10.125, 12.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 9.75, 8, 9, 8.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.125, 13.5, 13.875, 13.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.375, 8.625, 14.5, 8.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.5, 8.375, 14.375, 8.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.125, 7.875, 9.75 ],
+			"to": [ 10.75, 8.125, 9.875 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 10.5, 9.875, 10.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.5, 12, 14.125, 11.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 8, 4.625, 8.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 10.375, 10.375, 11, 10.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.375, 8.125, 14.5, 8.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.625, 9.375, 14.5, 9.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.125, 7.875, 9.875 ],
+			"to": [ 10.5, 8.125, 10 ],
+			"faces": {
+				"down": { "uv": [ 4.875, 9.875, 5.25, 10 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 4.875, 10.5, 5.25, 10.375 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.75, 8.375, 11.375, 8.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11, 9.375, 11.375, 9.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.625, 10, 13.75, 10.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 7.375, 8, 7.25, 8.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.125, 7.875, 10 ],
+			"to": [ 10.25, 8.125, 10.125 ],
+			"faces": {
+				"down": { "uv": [ 15.375, 8.75, 15.5, 8.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 15.5, 8.875, 15.625, 8.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 16, 13.5, 15.875, 13.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12.75, 10.25, 12.875, 10.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.75, 10, 12.875, 10.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.875, 9.75, 12.75, 10 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.125, 8, 9.25 ],
+			"to": [ 11.5, 8.125, 9.375 ],
+			"faces": {
+				"down": { "uv": [ 11.75, 13.25, 13.125, 13.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.125, 13.375, 14.5, 13.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.75, 13.125, 10.375, 13.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 14.5, 13.25, 15.875, 13.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.25, 8.375, 15.375, 8.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.625, 8.5, 15.5, 8.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.25, 7.875, 9.375 ],
+			"to": [ 11.25, 8.125, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 9.125, 9.625, 10.125, 9.75 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.125, 9.875, 10.125, 9.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 6.25, 8.5, 5.25, 8.75 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 6.375, 9.375, 7.375, 9.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.875, 10.875, 13, 11.125 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13, 10.625, 12.875, 10.875 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.375, 7.875, 8 ],
+			"to": [ 12.5, 8.125, 8.125 ],
+			"faces": {
+				"down": { "uv": [ 5.25, 9.125, 7.375, 9.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 5.25, 9.125, 7.375, 9 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 5.25, 14.75, 3.125, 15 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 14.625, 7.375, 14.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.875, 10.125, 13, 10.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13, 9.875, 12.875, 10.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.625, 7.875, 7.875 ],
+			"to": [ 12.625, 8, 8 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 12.75, 9.375, 12.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 12.75, 9.375, 12.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 9.375, 12.375, 7.375, 12.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 7.375, 12.125, 9.375, 12.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 14.625, 8.375, 14.75, 8.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14.75, 8.25, 14.625, 8.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.75, 8, 7.875 ],
+			"to": [ 12.625, 8.125, 8 ],
+			"faces": {
+				"down": { "uv": [ 7.375, 11.5, 9.25, 11.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 7.375, 11.375, 9.25, 11.25 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 9.25, 10, 7.375, 10.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 7.375, 11.375, 9.25, 11.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15, 9.125, 15.125, 9.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.25, 9.125, 15.125, 9.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 10.875, 7.875, 7.75 ],
+			"to": [ 12.625, 8.125, 7.875 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 8.875, 10, 9 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 8.25, 8.875, 10, 8.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7, 13.625, 5.25, 13.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 13.375, 7, 13.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.875, 9.625, 13, 9.875 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13, 9.375, 12.875, 9.625 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.125, 7.875, 7.625 ],
+			"to": [ 12.75, 8.125, 7.75 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 8.5, 9.875, 8.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 8.25, 8.75, 9.875, 8.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 6.875, 13.125, 5.25, 13.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 12.625, 6.875, 12.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12.875, 9.125, 13, 9.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13, 8.875, 12.875, 9.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.25, 7.875, 7.5 ],
+			"to": [ 12.75, 8.125, 7.625 ],
+			"faces": {
+				"down": { "uv": [ 10.875, 13.5, 12.375, 13.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 11.625, 13.875, 13.125, 13.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 6.75, 11.375, 5.25, 11.625 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 11.125, 6.75, 11.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13, 9.125, 13.125, 9.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.125, 8.875, 13, 9.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.5, 7.875, 7.375 ],
+			"to": [ 12.75, 8.125, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 14.25, 13.125, 15.5, 13.25 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 11.75, 13.25, 13, 13.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 6.5, 9.625, 5.25, 9.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 10.375, 6.5, 10.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.125, 10.25, 13.25, 10.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.25, 8.5, 13.125, 8.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.625, 7.875, 7.25 ],
+			"to": [ 12.875, 8.125, 7.375 ],
+			"faces": {
+				"down": { "uv": [ 11, 13, 12.25, 13.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13, 13.25, 14.25, 13.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 6.5, 10.125, 5.25, 10.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 9.875, 6.5, 10.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.25, 9.75, 13.375, 10 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.375, 9.5, 13.25, 9.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.75, 7.875, 7.125 ],
+			"to": [ 12.875, 8.125, 7.25 ],
+			"faces": {
+				"down": { "uv": [ 14.375, 12.75, 15.5, 12.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.375, 13.125, 14.5, 13 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7.375, 12.125, 6.25, 12.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 6.25, 11.875, 7.375, 12.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.25, 9.25, 13.375, 9.5 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.375, 9, 13.25, 9.25 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 11.875, 7.875, 7 ],
+			"to": [ 12.875, 8.125, 7.125 ],
+			"faces": {
+				"down": { "uv": [ 9.125, 9.5, 10.125, 9.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.5, 12.75, 13.5, 12.625 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 6.25, 8.25, 5.25, 8.5 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 5.25, 8, 6.25, 8.25 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.25, 8.75, 13.375, 9 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 14, 10.5, 13.875, 10.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 12, 7.875, 6.875 ],
+			"to": [ 12.875, 8.125, 7 ],
+			"faces": {
+				"down": { "uv": [ 9.25, 11.5, 10.125, 11.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.25, 11, 10.125, 10.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 8.25, 8, 7.375, 8.25 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 6.5, 9.875, 7.375, 10.125 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 15.25, 10.5, 15.375, 10.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 15.5, 10.5, 15.375, 10.75 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 12.125, 7.875, 6.625 ],
+			"to": [ 13, 8.125, 6.875 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 9.625, 7.375, 9.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 8.375, 12, 9.25, 11.75 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 10.125, 11.75, 9.25, 12 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 7.375, 9.25, 8.25, 9.5 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12, 9.5, 12.25, 9.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.25, 9.25, 12, 9.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 12.25, 7.875, 6.5 ],
+			"to": [ 13, 8.125, 6.625 ],
+			"faces": {
+				"down": { "uv": [ 9.375, 13.25, 10.125, 13.375 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 9.375, 13, 10.125, 12.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 7.375, 10.625, 6.625, 10.875 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 12.375, 13.5, 13.125, 13.75 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 13.375, 10.125, 13.5, 10.375 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 13.5, 9.875, 13.375, 10.125 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 12.375, 7.875, 6.25 ],
+			"to": [ 13, 8.125, 6.5 ],
+			"faces": {
+				"down": { "uv": [ 10.375, 12.625, 11, 12.875 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.375, 13.125, 11, 12.875 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11, 10.125, 10.375, 10.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 6.75, 11.375, 7.375, 11.625 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12, 9, 12.25, 9.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.25, 8.75, 12, 9 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 12.5, 7.875, 6 ],
+			"to": [ 13, 8.125, 6.25 ],
+			"faces": {
+				"down": { "uv": [ 12.375, 12.375, 12.875, 12.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 12.875, 12.375, 13.375, 12.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13.875, 12.125, 13.375, 12.375 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.875, 12.125, 14.375, 12.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12, 8.5, 12.25, 8.75 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.25, 8.25, 12, 8.5 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 12.625, 7.875, 5.625 ],
+			"to": [ 13, 8.125, 6 ],
+			"faces": {
+				"down": { "uv": [ 10.375, 8.25, 10.75, 8.625 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 10.375, 9.375, 10.75, 9 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 11.75, 9.875, 11.375, 10.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 11.375, 9.625, 11.75, 9.875 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 11.375, 9.375, 11.75, 9.625 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 11.75, 9.125, 11.375, 9.375 ], "texture": "#Karambit_atlas" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 12.75, 7.875, 5.375 ],
+			"to": [ 12.875, 8.125, 5.625 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 9.875, 13.625, 10.125 ], "texture": "#Karambit_atlas" },
+				"up": { "uv": [ 13.5, 9.375, 13.625, 9.125 ], "texture": "#Karambit_atlas" },
+				"north": { "uv": [ 13.625, 8.875, 13.5, 9.125 ], "texture": "#Karambit_atlas" },
+				"south": { "uv": [ 13.5, 8.125, 13.625, 8.375 ], "texture": "#Karambit_atlas" },
+				"west": { "uv": [ 12, 8, 12.25, 8.25 ], "texture": "#Karambit_atlas" },
+				"east": { "uv": [ 12.25, 10.25, 12, 10.5 ], "texture": "#Karambit_atlas" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, 0, 90 ],
+			"translation":  [ -0.095, -0.608, 0.0913 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 0, 0, -90 ],
+			"translation":  [ -0.095, -0.608, 0.0913 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 0, -2 ],
+			"translation":  [ 2.8742, -0.086, -3.478 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ -180, -180, 0 ],
+			"translation":  [ 2.8742, -0.086, -3.478 ]
+		},
+		"gui": {
+			"rotation":  [ 90, -128, 175 ]
+		},
+		"fixed": {
+			"rotation":  [ 90, 125, 0 ]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "gun/glock_varrum",
+  "textures": {
+    "voxels_atlas": "new/glock_x"
+  }
+}

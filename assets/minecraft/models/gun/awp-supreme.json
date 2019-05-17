@@ -1,0 +1,6 @@
+{
+  "parent": "gun/awp_meres",
+  "textures": {
+    "voxels_atlas": "new/awp-supreme"
+  }
+}

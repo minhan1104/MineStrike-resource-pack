@@ -1,0 +1,6 @@
+{
+  "parent": "gun/mac10-neon",
+  "textures": {
+    "voxels_atlas": "new/mac10-kitty"
+  }
+}

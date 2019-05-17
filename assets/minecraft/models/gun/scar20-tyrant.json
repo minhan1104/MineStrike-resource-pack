@@ -1,0 +1,6 @@
+{
+  "parent": "gun/scar20",
+  "textures": {
+    "mesh_atlas": "new/scar20-tyrant"
+  }
+}

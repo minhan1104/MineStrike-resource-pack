@@ -1,0 +1,6 @@
+{
+  "parent": "gun/m249",
+  "textures": {
+    "voxels_atlas": "new/m249-geometry"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "gun/henry_fog",
+  "textures": {
+    "mesh_atlas": "new/henry_supreme"
+  }
+}
