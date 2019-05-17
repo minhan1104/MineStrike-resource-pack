@@ -1,3 +1,3 @@
 Đây là pack của server MineFS.net
-Pack của server MineFS hiện có khoảng 150 khẩu và toàn bộ là do server tự thiết kế (ngoại trừ duy nhất 1 khẩu scout là ăn cắp của người khác và đang chờ thay thế thành SSG08)
+Pack của server MineFS hiện có khoảng 150 khẩu và toàn bộ là do server tự thiết kế
 MineFS không cho phép các bạn tự ý sử dụng resource pack này, nếu muốn sử dụng, trước tiên hãy xin phép tại group: https://www.facebook.com/groups/minefs/
