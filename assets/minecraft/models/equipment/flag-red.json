@@ -1,0 +1,6 @@
+{
+  "parent": "equipment/flag-blue",
+  "textures": {
+    "voxels_atlas": "new/flag_red"
+  }
+}

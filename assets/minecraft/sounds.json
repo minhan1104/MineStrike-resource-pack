@@ -1,0 +1,1651 @@
+{
+  "cs.musics.mvp.talos": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/talos",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.iam": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/iam",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.8bit": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/8bit",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.duckhunt": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/duckhunt",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.k175": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/k175",
+        "stream": true
+      }
+    ]
+  },
+  "cs.weapons.p2000": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/p2000"
+    ]
+  },
+  "cs.weapons.cyclone": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/cyclone"
+    ]
+  },
+  "cs.musics.lobby": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/lobby",
+        "stream": true
+      }
+    ]
+  },
+  "cs.random.buzz": {
+    "category": "master",
+    "sounds": [
+      "cs/random/buzz"
+    ]
+  },
+  "cs.weapons.negev": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/negev"
+    ]
+  },
+  "cs.weapons.famas": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/famas"
+    ]
+  },
+  "cs.weapons.galil": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/galil"
+    ]
+  },
+  "cs.weapons.katana_hit": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/kanata_hit"
+    ]
+  },
+  "cs.weapons.katana_swing": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/katana_swing"
+    ]
+  },
+  "cs.weapons.skull9_swing": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/skull9_swing1",
+      "cs/weapons/skull9_swing2"
+    ]
+  },
+  "cs.weapons.skull9_hit": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/skull9_hit"
+    ]
+  },
+  "cs.weapons.scar_h": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/scar_h"
+    ]
+  },
+  "cs.weapons.svd": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/svd"
+    ]
+  },
+  "cs.weapons.mp9": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/mp9"
+    ]
+  },
+  "cs.weapons.mac10": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/mac10"
+    ]
+  },
+  "cs.weapons.usps": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/usps"
+    ]
+  },
+  "cs.weapons.scar20": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/scar20"
+    ]
+  },
+  "cs.weapons.g3sg1": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/g3sg1"
+    ]
+  },
+  "cs.weapons.glock": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/glock"
+    ]
+  },
+  "cs.weapons.stg44": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/stg44"
+    ]
+  },
+  "cs.weapons.ak12": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/ak12"
+    ]
+  },
+  "cs.weapons.spas12": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/spas12"
+    ]
+  },
+  "cs.weapons.uts15": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/uts15"
+    ]
+  },
+  "cs.weapons.mp7": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/mp7"
+    ]
+  },
+  "cs.weapons.r8": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/r8"
+    ]
+  },
+  "cs.weapons.k1a": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/k1a"
+    ]
+  },
+  "cs.weapons.mg36": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/mg36"
+    ]
+  },
+  "cs.weapons.tar21": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/tar21"
+    ]
+  },
+  "cs.weapons.m4a1s": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/m4a1s"
+    ]
+  },
+  "cs.weapons.anaconda": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/anaconda"
+    ]
+  },
+  "cs.random.dry_p": {
+    "category": "master",
+    "sounds": [
+      "cs/random/dry_p"
+    ]
+  },
+  "cs.random.dry": {
+    "category": "master",
+    "sounds": [
+      "cs/random/dry"
+    ]
+  },
+  "cs.weapons.winchester": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/m1887"
+    ]
+  },
+  "cs.zombie.powerup": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/powerup"
+    ]
+  },
+  "cs.zombie.evolution": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/evolution"
+    ]
+  },
+  "cs.zombie.skill_end": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/skill_end"
+    ]
+  },
+  "cs.zombie.skill_start": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/skill_start"
+    ]
+  },
+  "cs.zombie.heal": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/heal"
+    ]
+  },
+  "cs.zombie.supply": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/supply"
+    ]
+  },
+  "cs.zombie.coming": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/coming"
+    ]
+  },
+  "entity.zombie.death": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "cs/zombie/zombi_death_1",
+      "cs/zombie/zombi_death_2"
+    ]
+  },
+  "entity.zombie.hurt": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "cs/zombie/zombi_hurt_01",
+      "cs/zombie/zombi_hurt_02"
+    ]
+  },
+  "cs.zombie.swing": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/swing_1",
+      "cs/zombie/swing_2",
+      "cs/zombie/swing_3"
+    ]
+  },
+  "cs.zombie.win_human": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/win_human"
+    ]
+  },
+  "cs.zombie.win_zombie": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/win_zombie"
+    ]
+  },
+  "cs.zombie.attack": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/attack_1",
+      "cs/zombie/attack_2",
+      "cs/zombie/attack_3"
+    ]
+  },
+  "cs.zombie.infect": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/infect_1",
+      "cs/zombie/infect_2"
+    ]
+  },
+  "cs.zombie.1": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/1"
+    ]
+  },
+  "cs.zombie.2": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/2"
+    ]
+  },
+  "cs.zombie.3": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/3"
+    ]
+  },
+  "cs.zombie.4": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/4"
+    ]
+  },
+  "cs.zombie.5": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/5"
+    ]
+  },
+  "cs.zombie.6": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/6"
+    ]
+  },
+  "cs.zombie.7": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/7"
+    ]
+  },
+  "cs.zombie.8": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/8"
+    ]
+  },
+  "cs.zombie.9": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/9"
+    ]
+  },
+  "cs.zombie.10": {
+    "category": "master",
+    "sounds": [
+      "cs/zombie/10"
+    ]
+  },
+  "cs.weapons.henry": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/henry"
+    ]
+  },
+  "cs.weapons.ksg12": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/ksg12"
+    ]
+  },
+  "cs.weapons.m14": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/m14"
+    ]
+  },
+  "cs.weapons.an94": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/an94"
+    ]
+  },
+  "cs.weapons.barrett": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/barrett"
+    ]
+  },
+  "cs.weapons.barrett_s": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/barrett_s"
+    ]
+  },
+  "cs.weapons.mg3": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/mg3"
+    ]
+  },
+  "cs.reloads.m60e4": {
+    "category": "master",
+    "sounds": [
+      "cs/reloads/m60e4"
+    ]
+  },
+  "cs.weapons.m60e4": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/m60e4"
+    ]
+  },
+  "cs.weapons.rpk": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/rpk"
+    ]
+  },
+  "cs.random.c4_defuse_start": {
+    "category": "master",
+    "sounds": [
+      "cs/random/c4_defuse_start"
+    ]
+  },
+  "cs.random.c4_defuse_end": {
+    "category": "master",
+    "sounds": [
+      "cs/random/c4_defuse_end"
+    ]
+  },
+  "cs.random.c4_plant": {
+    "category": "master",
+    "sounds": [
+      "cs/random/c4_plant"
+    ]
+  },
+  "cs.random.c4_explode": {
+    "category": "master",
+    "sounds": [
+      "cs/random/c4_explode"
+    ]
+  },
+  "cs.random.headshot_shooter": {
+    "category": "master",
+    "sounds": [
+      "cs/random/headshot_shooter"
+    ]
+  },
+  "cs.random.headshot_victim": {
+    "category": "master",
+    "sounds": [
+      "cs/random/headshot_victim"
+    ]
+  },
+  "cs.random.reload_end": {
+    "category": "master",
+    "sounds": [
+      "cs/random/reload_end"
+    ]
+  },
+  "cs.random.reload_start": {
+    "category": "master",
+    "sounds": [
+      "cs/random/reload_start"
+    ]
+  },
+  "cs.random.reload_fire": {
+    "category": "master",
+    "sounds": [
+      "cs/random/reload_fire"
+    ]
+  },
+  "cs.weapons.shotgunshot": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/shotgun"
+    ]
+  },
+  "cs.weapons.uzi": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/uzi"
+    ]
+  },
+  "cs.weapons.aug": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/aug"
+    ]
+  },
+  "cs.weapons.sg552": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/sg552"
+    ]
+  },
+  "cs.weapons.57": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/57"
+    ]
+  },
+  "cs.gamesounds.flag_win": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/flag_win"
+    ]
+  },
+  "cs.gamesounds.flag_captured": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/flag_captured"
+    ]
+  },
+  "cs.gamesounds.flag_stolen": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/flag_stolen"
+    ]
+  },
+  "cs.gamesounds.ohno": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/ohno"
+    ]
+  },
+  "cs.gamesounds.bombdroppedyourteam": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/bombdroppedyourteam"
+    ]
+  },
+  "cs.gamesounds.bombdroppedenemyteam": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/bombdroppedenemyteam"
+    ]
+  },
+  "cs.gamesounds.ks5": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/ks5"
+    ]
+  },
+  "cs.gamesounds.ks10": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/ks10"
+    ]
+  },
+  "cs.gamesounds.ks15": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/ks15"
+    ]
+  },
+  "cs.gamesounds.ks20": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/ks20"
+    ]
+  },
+  "cs.gamesounds.firstkill": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/firstkill"
+    ]
+  },
+  "cs.gamesounds.winteamcreepers": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/winteamcreepers"
+    ]
+  },
+  "cs.gamesounds.winteamocelots": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/winteamocelots"
+    ]
+  },
+  "cs.gamesounds.secondsremain": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/30secondsremain"
+    ]
+  },
+  "cs.weapons.ump45": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/ump45"
+    ]
+  },
+  "cs.weapons.carbine": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/carbine"
+    ]
+  },
+  "cs.throwables.explodegrenade": {
+    "category": "master",
+    "sounds": [
+      "cs/throwables/explodegrenade"
+    ]
+  },
+  "cs.gamesounds.throwingflashbang": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/throwingflashbang"
+    ]
+  },
+  "cs.weapons.awp": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/sniper"
+    ]
+  },
+  "cs.weapons.awp_s": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/sniper_s"
+    ]
+  },
+  "cs.weapons.zoom": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/zoom"
+    ]
+  },
+  "cs.gamesounds.wilhelm": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/wilhelm"
+    ]
+  },
+  "cs.gamesounds.criminalswinthegame": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/criminalswinthegame"
+    ]
+  },
+  "cs.gamesounds.throwinggrenade": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/throwinggrenade"
+    ]
+  },
+  "cs.gamesounds.copswinthegame": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/copswinthegame"
+    ]
+  },
+  "cs.gamesounds.oneenemyleft": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/oneenemyleft"
+    ]
+  },
+  "random.eat": {
+    "category": "master",
+    "sounds": [
+      "random/eat1",
+      "random/eat2",
+      "random/eat3"
+    ]
+  },
+  "cs.shop.shopmenuclose": {
+    "category": "master",
+    "sounds": [
+      "cs/shop/shopmenuclose"
+    ]
+  },
+  "cs.shop.shopbuyitem": {
+    "category": "master",
+    "sounds": [
+      "cs/shop/shopbuyitem"
+    ]
+  },
+  "cs.gamesounds.droppedagun": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/droppedagun"
+    ]
+  },
+  "cs.gamesounds.bombdefused": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/bombdefused"
+    ]
+  },
+  "cs.gamesounds.oneteammateleft": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/oneteammateleft"
+    ]
+  },
+  "cs.gamesounds.reloading": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/reloading1",
+      "cs/gamesounds/reloading2",
+      "cs/gamesounds/reloading3"
+    ]
+  },
+  "cs.weapons.smg": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/smg"
+    ]
+  },
+  "cs.gamesounds.swappingsides": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/swappingsides"
+    ]
+  },
+  "cs.weapons.m249": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/m249"
+    ]
+  },
+  "cs.weapons.p90": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/p90"
+    ]
+  },
+  "cs.weapons.m249-r": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/m249-r"
+    ]
+  },
+  "cs.weapons.ak47": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/ak47"
+    ]
+  },
+  "cs.throwables.explodeflashbang": {
+    "category": "master",
+    "sounds": [
+      "cs/throwables/explodeflashbang"
+    ]
+  },
+  "cs.throwables.explodefirebomb": {
+    "category": "master",
+    "sounds": [
+      "cs/throwables/explodefirebomb"
+    ]
+  },
+  "cs.gamesounds.throwingsmoke": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/throwingsmoke"
+    ]
+  },
+  "cs.weapons.dragon_swing": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/dragon_swing"
+    ]
+  },
+  "cs.weapons.dragon_hit": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/dragon_hit1",
+      "cs/weapons/dragon_hit2"
+    ]
+  },
+  "cs.weapons.knifeswing": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/knifeswing"
+    ]
+  },
+  "cs.weapons.knifehit": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/knife_hit1",
+      "cs/weapons/knife_hit2",
+      "cs/weapons/knife_hit3",
+      "cs/weapons/knife_hit4"
+    ]
+  },
+  "cs.weapons.deagle": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/deagle"
+    ]
+  },
+  "cs.weapons.elite": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/elite"
+    ]
+  },
+  "cs.reloads.reload-elites-start": {
+    "category": "master",
+    "sounds": [
+      "cs/reloads/reload-elites-start"
+    ]
+  },
+  "cs.reloads.reload-elites-end": {
+    "category": "master",
+    "sounds": [
+      "cs/reloads/reload-elites-end"
+    ]
+  },
+  "cs.weapons.infinity": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/infinity"
+    ]
+  },
+  "cs.reloads.infinity-ds": {
+    "category": "master",
+    "sounds": [
+      "cs/reloads/infinity-ds"
+    ]
+  },
+  "cs.reloads.infinity-de": {
+    "category": "master",
+    "sounds": [
+      "cs/reloads/infinity-de"
+    ]
+  },
+  "cs.shop.shopcantbuy": {
+    "category": "master",
+    "sounds": [
+      "cs/shop/shopcantbuy"
+    ]
+  },
+  "cs.throwables.grenadethrow": {
+    "category": "master",
+    "sounds": [
+      "cs/throwables/grenadethrow"
+    ]
+  },
+  "cs.gamesounds.bombbeep": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/bombbeep"
+    ]
+  },
+  "cs.gamesounds.headshotkill": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/headshotkill"
+    ]
+  },
+  "cs.throwables.explodesmoke": {
+    "category": "master",
+    "sounds": [
+      "cs/throwables/explodesmoke"
+    ]
+  },
+  "cs.gamesounds.bombplanted": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/bombplanted"
+    ]
+  },
+  "cs.gamesounds.pickedupthebomb": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/pickedupthebomb"
+    ]
+  },
+  "cs.gamesounds.roundstart": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/roundstart1",
+      "cs/gamesounds/roundstart2",
+      "cs/gamesounds/roundstart3",
+      "cs/gamesounds/roundstart4"
+    ]
+  },
+  "cs.gamesounds.throwingdecoy": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/throwingdecoy"
+    ]
+  },
+  "cs.gamesounds.throwingfirebomb": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/throwingfirebomb"
+    ]
+  },
+  "cs.shop.boughtarmor": {
+    "category": "master",
+    "sounds": [
+      "cs/shop/boughtarmor"
+    ]
+  },
+  "cs.gamesounds.spawnedin": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/spawnedin"
+    ]
+  },
+  "cs.shop.shopmenuopen": {
+    "category": "master",
+    "sounds": [
+      "cs/shop/shopmenuopen"
+    ]
+  },
+  "random.bowhit": {
+    "category": "master",
+    "sounds": [
+      "random/bowhit1",
+      "random/bowhit2",
+      "random/bowhit3",
+      "random/bowhit4"
+    ]
+  },
+  "cs.gamesounds.2kill": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/2kill"
+    ]
+  },
+  "cs.gamesounds.3kill": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/3kill"
+    ]
+  },
+  "cs.gamesounds.4kill": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/4kill"
+    ]
+  },
+  "cs.gamesounds.kill": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/kill"
+    ]
+  },
+  "cs.gamesounds.lastsoldier": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/lastsoldier"
+    ]
+  },
+  "cs.gamesounds.knifekill": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/knifekill"
+    ]
+  },
+  "cs.gamesounds.gotit": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/gotit"
+    ]
+  },
+  "cs.gamesounds.revenge": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/revenge"
+    ]
+  },
+  "cs.weapons.xm1014": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/xm1014"
+    ]
+  },
+  "cs.weapons.thompson": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/thompson"
+    ]
+  },
+  "cs.weapons.scar": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/scar"
+    ]
+  },
+  "cs.weapons.scout": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/scout"
+    ]
+  },
+  "cs.weapons.scout_s": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/scout_s"
+    ]
+  },
+  "cs.random.reload_sg": {
+    "category": "master",
+    "sounds": [
+      "cs/random/reload_sg"
+    ]
+  },
+  "cs.gamesounds.c4_end": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/c4_end"
+    ]
+  },
+  "cs.gamesounds.c4_beep1": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/c4_beep1"
+    ]
+  },
+  "cs.gamesounds.c4_beep2": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/c4_beep2"
+    ]
+  },
+  "cs.gamesounds.c4_beep3": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/c4_beep3"
+    ]
+  },
+  "cs.gamesounds.c4_beep4": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/c4_beep4"
+    ]
+  },
+  "cs.gamesounds.c4_beep5": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/c4_beep5"
+    ]
+  },
+  "cs.musics.ctf_start": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/ctf_start",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.ctf_loop": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/ctf_loop",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.ctf_loop1": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/ctf_loop",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.action": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/action",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.win": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/win",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.lose": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/lose",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.round_start": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/round_start_1",
+        "stream": true
+      },
+      {
+	    "name": "cs/musics/round_start_2",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.matchpoint": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/matchpoint",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.result": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/result",
+        "stream": true
+      }
+    ]
+  },
+  "cs.zombie.start": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/zombie/start",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.ze_start": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/ze_start",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.ze_run": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/ze_run",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.csikospost": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/csikospost",
+        "stream": true
+      }
+    ]
+  },
+  "cs.gamesounds.fireinhole": {
+    "category": "master",
+    "sounds": [
+      "cs/gamesounds/fireinhole"
+    ]
+  },
+  "cs.weapons.pistolshot": {
+    "category": "master",
+    "sounds": [
+      "cs/weapons/pistol"
+    ]
+  },
+  "cs.musics.happytown": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/happytown",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.warning": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/warning",
+        "stream": true
+      }
+    ]
+  },
+  "cs.gamesounds.chopper": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/gamesounds/chopper",
+        "stream": true
+      }
+    ]
+  },
+  "music.game": {
+    "category": "master",
+	"replace": true,
+    "sounds": []
+  },
+  "entity.player.attack.sweep": {
+    "category": "master",
+	"replace": true,
+    "sounds": []
+  },
+  "cs.radio.tickingdown": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/tickingdown"
+    ]
+  },
+  "cs.radio.defusing": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/defusing"
+    ]
+  },
+  "cs.radio.planting": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/planting"
+    ]
+  },
+  "cs.radio.affirm": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/affirm"
+    ]
+  },
+  "cs.radio.backup": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/backup"
+    ]
+  },
+  "cs.radio.coverme": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/coverme"
+    ]
+  },
+  "cs.radio.check": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/check"
+    ]
+  },
+  "cs.radio.enemydown": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/enemydown"
+    ]
+  },
+  "cs.radio.enemys": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/enemys"
+    ]
+  },
+  "cs.radio.ez": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/ez"
+    ]
+  },
+  "cs.radio.fallback": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/fallback"
+    ]
+  },
+  "cs.radio.fireassis": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/fireassis"
+    ]
+  },
+  "cs.radio.fireinhole": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/fireinhole"
+    ]
+  },
+  "cs.radio.followme": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/followme"
+    ]
+  },
+  "cs.radio.getinpos": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/getinpos"
+    ]
+  },
+  "cs.radio.go": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/go"
+    ]
+  },
+  "cs.radio.inpos": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/inpos"
+    ]
+  },
+  "cs.radio.letsgo": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/letsgo"
+    ]
+  },
+  "cs.radio.locknload": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/locknload"
+    ]
+  },
+  "cs.radio.move": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/move"
+    ]
+  },
+  "cs.radio.moveout": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/moveout"
+    ]
+  },
+  "cs.radio.negative": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/negative"
+    ]
+  },
+  "cs.radio.point": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/point"
+    ]
+  },
+  "cs.radio.position": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/position"
+    ]
+  },
+  "cs.radio.regroup": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/regroup"
+    ]
+  },
+  "cs.radio.reporting": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/reporting"
+    ]
+  },
+  "cs.radio.roger": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/roger"
+    ]
+  },
+  "cs.radio.sticktog": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/sticktog"
+    ]
+  },
+  "cs.radio.stormfront": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/stormfront"
+    ]
+  },
+  "cs.radio.takepoint": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/takepoint"
+    ]
+  },
+  "cs.radio.grenade": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/grenade"
+    ]
+  },
+  "cs.radio.flashbang": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/flashbang"
+    ]
+  },
+  "cs.radio.smoke": {
+    "category": "master",
+    "sounds": [
+      "cs/radio/smoke"
+    ]
+  },
+  "cs.ze.box": {
+    "category": "master",
+    "sounds": [
+      "cs/ze/box"
+    ]
+  },
+  "cs.ze.fail": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/ze/fail",
+        "stream": true
+      }
+    ]
+  },
+  "cs.ze.success": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/ze/success",
+        "stream": true
+      }
+    ]
+  },
+  "cs.ze.siren": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/ze/siren",
+        "stream": true
+      }
+    ]
+  },
+  "cs.ze.horror": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/ze/horror",
+        "stream": true
+      }
+    ]
+  },
+  "cs.ze.vehicle": {
+    "category": "master",
+    "sounds": [
+      "cs/ze/vehicle"
+    ]
+  },
+  "cs.ze.call1": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/ze/call1",
+        "stream": true
+      }
+    ]
+  },
+  "cs.ze.call2": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/ze/call2",
+        "stream": true
+      }
+    ]
+  },
+  "block.anvil.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "step/stone1",
+      "step/stone2",
+      "step/stone3",
+      "step/stone4",
+      "step/stone5",
+      "step/stone6"
+    ]
+  },
+  "block.cloth.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "step/cloth1",
+      "step/cloth2",
+      "step/cloth3",
+      "step/cloth4"
+    ]
+  },
+  "block.glass.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "step/stone1",
+      "step/stone2",
+      "step/stone3",
+      "step/stone4",
+      "step/stone5",
+      "step/stone6"
+    ]
+  },
+  "block.grass.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "step/grass1",
+      "step/grass2",
+      "step/grass3",
+      "step/grass4",
+      "step/grass5",
+      "step/grass6"
+    ]
+  },
+  "block.gravel.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "step/gravel1",
+      "step/gravel2",
+      "step/gravel3",
+      "step/gravel4"
+    ]
+  },
+  "block.ladder.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "step/ladder1",
+      "step/ladder2",
+      "step/ladder3",
+      "step/ladder4",
+      "step/ladder5"
+    ]
+  },
+  "block.metal.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "step/stone1",
+      "step/stone2",
+      "step/stone3",
+      "step/stone4",
+      "step/stone5",
+      "step/stone6"
+    ]
+  },
+  "block.sand.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "step/sand1",
+      "step/sand2",
+      "step/sand3",
+      "step/sand4",
+      "step/sand5"
+    ]
+  },
+  "block.slime.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "mob/slime/small1",
+      "mob/slime/small2",
+      "mob/slime/small3",
+      "mob/slime/small4",
+      "mob/slime/small5"
+    ]
+  },
+  "block.snow.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "step/snow1",
+      "step/snow2",
+      "step/snow3",
+      "step/snow4"
+    ]
+  },
+  "block.stone.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "step/stone1",
+      "step/stone2",
+      "step/stone3",
+      "step/stone4",
+      "step/stone5",
+      "step/stone6"
+    ]
+  },
+  "block.wood.step": {
+    "category": "master",
+	"replace": true,
+    "sounds": [
+      "step/wood1",
+      "step/wood2",
+      "step/wood3",
+      "step/wood4",
+      "step/wood5",
+      "step/wood6"
+    ]
+  }
+}

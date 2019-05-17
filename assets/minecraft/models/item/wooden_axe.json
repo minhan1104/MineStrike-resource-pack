@@ -1,0 +1,16 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "items/wood_axe"
+  },
+  "overrides": [
+	{"predicate": {"damaged": 0, "damage": 0}, "model": "item/wooden_axe"},
+    {"predicate": {"damaged": 0, "damage": 0.01666666666667}, "model": "supply"},
+    {"predicate": {"damaged": 0, "damage": 0.03333333333333333}, "model": "tombs/default"},
+    {"predicate": {"damaged": 0, "damage": 0.05}, "model": "tombs/default"},
+    {"predicate": {"damaged": 0, "damage": 0.06666666666666667}, "model": "tombs/default"},
+    {"predicate": {"damaged": 0, "damage": 0.08333333333333333}, "model": "tombs/default"},
+    {"predicate": {"damaged": 0, "damage": 0.1}, "model": "tombs/default"},
+	{"predicate": {"damaged": 1, "damage": 0}, "model": "item/wooden_axe"}
+  ]
+}
