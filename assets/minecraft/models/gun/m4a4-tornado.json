@@ -1,0 +1,6 @@
+{
+  "parent": "gun/m4a4neo",
+  "textures": {
+    "voxels_atlas": "new/m4a4-tornado"
+  }
+}

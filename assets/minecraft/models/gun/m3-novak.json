@@ -1,0 +1,6 @@
+{
+  "parent": "gun/m3",
+  "textures": {
+    "voxels_atlas": "new/nova-novak"
+  }
+}
