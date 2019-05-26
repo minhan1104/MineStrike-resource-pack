@@ -10976,5 +10976,37 @@
 				"east": { "uv": [ 5.25, 10.375, 5.1875, 10.4375 ], "texture": "#voxels_atlas" }
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ -0.695, 0.5, -4.172 ],
+			"scale":  [ 0.85, 0.85, 0.85 ]
+		},
+		"thirdperson_lefthand": {
+			"translation":  [ 0.695, 0.5, -4.172 ],
+			"scale":  [ 0.85, 0.85, 0.85 ]
+		},
+		"firstperson_righthand": {
+			"translation":  [ -6.193, 4.8694, 0.1096 ],
+			"scale":  [ 0.85, 0.85, 0.85 ]
+		},
+		"firstperson_lefthand": {
+			"translation":  [ -4.172, 4.8694, 0.1096 ],
+			"scale":  [ 0.85, 0.85, 0.85 ]
+		},
+		"gui": {
+			"rotation":  [ -30, -139, -13 ],
+			"translation":  [ 1.0009, 0, 15.304 ],
+			"scale":  [ 0.85, 0.85, 0.85 ]
+		},
+		"ground": {
+			"translation":  [ -0.695, 0, 0 ],
+			"scale":  [ 0.85, 0.85, 0.85 ]
+		},
+		"fixed": {
+			"rotation":  [ 90, 45, -90 ],
+			"translation":  [ 0, 0.6963, 0.6956 ],
+			"scale":  [ 0.85, 0.85, 0.85 ]
+		}
+	}
 }
