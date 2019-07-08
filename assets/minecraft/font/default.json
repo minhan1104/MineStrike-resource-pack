@@ -1,0 +1,319 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_01.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_02.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_03.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_04.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_05.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_06.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_07.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_08.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_09.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_10.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_11.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u900a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_12.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u900b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_13.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u900c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_14.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u900d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_15.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u900e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_16.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u900f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_17.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_18.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_19.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_20.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_21.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_22.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_23.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_24.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_25.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9018"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_26.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9019"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_27.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u901a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_28.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u901b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_29.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u901c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_30.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u901d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_31.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u901e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_32.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u901f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_33.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9020"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_34.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9021"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/cuccu_35.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9022"
+      ]
+    }
+  ]
+}
