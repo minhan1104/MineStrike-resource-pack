@@ -1097,6 +1097,15 @@
       "cs/gamesounds/c4_beep5"
     ]
   },
+  "cs.musics.c4": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/c4",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.ctf_start": {
     "category": "music",
     "sounds": [
