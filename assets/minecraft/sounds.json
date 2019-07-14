@@ -44,6 +44,24 @@
       }
     ]
   },
+  "cs.musics.mvp.diamonds": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/diamonds",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.highnoon": {
+    "category": "master",
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/highnoon",
+        "stream": true
+      }
+    ]
+  },
   "cs.weapons.p2000": {
     "category": "master",
     "sounds": [
