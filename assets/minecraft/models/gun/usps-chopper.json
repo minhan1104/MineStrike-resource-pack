@@ -1,0 +1,6 @@
+{
+  "parent": "gun/usps",
+  "textures": {
+    "voxels_atlas": "new/usps-chopper"
+  }
+}
