@@ -1,4 +1,12 @@
 {
+  "cs.musics.mvp.weed": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/weed",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.mvp.talos": {
     "sounds": [
       {
