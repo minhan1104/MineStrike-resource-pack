@@ -1,0 +1,6 @@
+{
+  "parent": "gun/svd",
+  "textures": {
+    "mesh_atlas1": "new/svd-hlw"
+  }
+}
