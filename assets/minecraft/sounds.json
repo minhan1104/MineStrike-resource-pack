@@ -939,6 +939,24 @@
       }
     ]
   },
+  "cs.musics.lacrimosa": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/lacrimosa",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.shining": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/shining",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.ctf_start": {
     "category": "music",
     "sounds": [
