@@ -1,4 +1,12 @@
 {
+  "cs.musics.mvp.ez4ence": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/ez4ence",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.mvp.weed": {
     "sounds": [
       {
