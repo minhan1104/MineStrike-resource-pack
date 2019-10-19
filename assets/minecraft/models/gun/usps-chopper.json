@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "2dguns/usp-chopper"
+    "layer0": "2dguns/usps-chopper"
   }
 }
