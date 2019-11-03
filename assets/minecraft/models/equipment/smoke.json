@@ -1,490 +1,814 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"mesh_atlas": "new/smoke"
+		"voxels_atlas": "grenades/smoke"
 	},
 	"elements": [
 		{
 			"name": "Voxels",
-			"from": [6.75, 12.75, 8.75],
-			"to": [7, 13, 9.25],
+			"from": [7, 5, 7.5],
+			"to": [7.5, 5.25, 7.75],
 			"faces": {
-				"north": {"uv": [3.25, 0, 3, 0.25], "texture": "#mesh_atlas"},
-				"east": {"uv": [2, 2.5, 1.5, 2.75], "texture": "#mesh_atlas"},
-				"south": {"uv": [3.75, 0, 4, 0.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [1.5, 5.5, 2, 5.75], "texture": "#mesh_atlas"},
-				"up": {"uv": [4, 6.75, 4.25, 6.25], "texture": "#mesh_atlas"},
-				"down": {"uv": [4, 5.25, 4.25, 5.75], "texture": "#mesh_atlas"}
+				"north": {"uv": [4.75, 9.375, 4.5, 9.5], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.75, 9.875, 7.625, 10], "texture": "#voxels_atlas"},
+				"south": {"uv": [4.5, 9.25, 4.75, 9.375], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.5, 8.25, 7.625, 8.375], "texture": "#voxels_atlas"},
+				"up": {"uv": [1, 8.125, 1.25, 8], "texture": "#voxels_atlas"},
+				"down": {"uv": [6.5, 8.125, 6.75, 8.25], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [6.75, 13, 9],
-			"to": [7, 13.25, 9.25],
+			"from": [7, 5, 7.75],
+			"to": [7.25, 11, 9.25],
 			"faces": {
-				"north": {"uv": [5, 4, 4.75, 4.25], "texture": "#mesh_atlas"},
-				"east": {"uv": [4.5, 3, 4.25, 3.25], "texture": "#mesh_atlas"},
-				"south": {"uv": [4.75, 3.75, 5, 4], "texture": "#mesh_atlas"},
-				"west": {"uv": [4, 3, 4.25, 3.25], "texture": "#mesh_atlas"},
-				"up": {"uv": [4.75, 6.5, 5, 6.25], "texture": "#mesh_atlas"},
-				"down": {"uv": [4.75, 6.5, 5, 6.75], "texture": "#mesh_atlas"}
+				"north": {"uv": [7.75, 10, 7.625, 13], "texture": "#voxels_atlas"},
+				"east": {"uv": [4.75, 10, 4, 13], "texture": "#voxels_atlas"},
+				"south": {"uv": [7.375, 13, 7.5, 16], "texture": "#voxels_atlas"},
+				"west": {"uv": [4, 13, 4.75, 16], "texture": "#voxels_atlas"},
+				"up": {"uv": [4.875, 10.125, 5, 9.375], "texture": "#voxels_atlas"},
+				"down": {"uv": [4.75, 9.375, 4.875, 10.125], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7, 7.75, 7.25],
-			"to": [9, 8.5, 8.75],
+			"from": [7, 5, 9.25],
+			"to": [7.5, 5.25, 9.5],
 			"faces": {
-				"north": {"uv": [5, 12.25, 3, 13], "texture": "#mesh_atlas"},
-				"east": {"uv": [7.5, 11.5, 6, 12.25], "texture": "#mesh_atlas"},
-				"south": {"uv": [5, 12.25, 7, 13], "texture": "#mesh_atlas"},
-				"west": {"uv": [4.5, 11.5, 6, 12.25], "texture": "#mesh_atlas"},
-				"up": {"uv": [9, 16, 11, 14.5], "texture": "#mesh_atlas"},
-				"down": {"uv": [0, 1, 2, 2.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [4.75, 8.5, 4.5, 8.625], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.75, 9.5, 7.625, 9.625], "texture": "#voxels_atlas"},
+				"south": {"uv": [4.5, 8.375, 4.75, 8.5], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.625, 9.75, 7.75, 9.875], "texture": "#voxels_atlas"},
+				"up": {"uv": [4.5, 8.75, 4.75, 8.625], "texture": "#voxels_atlas"},
+				"down": {"uv": [4.5, 8.75, 4.75, 8.875], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7, 8.5, 7.5],
-			"to": [9, 12.25, 8.5],
+			"from": [7, 10.75, 7.5],
+			"to": [7.5, 11, 7.75],
 			"faces": {
-				"north": {"uv": [2, 12.25, 0, 16], "texture": "#mesh_atlas"},
-				"east": {"uv": [3, 5.5, 2, 9.25], "texture": "#mesh_atlas"},
-				"south": {"uv": [0, 8.5, 2, 12.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [2, 9.25, 3, 13], "texture": "#mesh_atlas"},
-				"up": {"uv": [12.5, 16, 14.5, 15], "texture": "#mesh_atlas"},
-				"down": {"uv": [0, 0, 2, 1], "texture": "#mesh_atlas"}
+				"north": {"uv": [6.25, 9.625, 6, 9.75], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.75, 8.75, 7.625, 8.875], "texture": "#voxels_atlas"},
+				"south": {"uv": [6, 9.5, 6.25, 9.625], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.625, 9.125, 7.75, 9.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [6, 9.875, 6.25, 9.75], "texture": "#voxels_atlas"},
+				"down": {"uv": [6, 9.875, 6.25, 10], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7, 11.5, 7.25],
-			"to": [9, 12.25, 7.5],
+			"from": [7, 10.75, 9.25],
+			"to": [7.5, 11, 9.5],
 			"faces": {
-				"north": {"uv": [14.5, 13.5, 12.5, 14.25], "texture": "#mesh_atlas"},
-				"east": {"uv": [4, 3.5, 3.75, 4.25], "texture": "#mesh_atlas"},
-				"south": {"uv": [12.5, 14.25, 14.5, 15], "texture": "#mesh_atlas"},
-				"west": {"uv": [3.5, 0, 3.75, 0.75], "texture": "#mesh_atlas"},
-				"up": {"uv": [10.5, 12.25, 12.5, 12], "texture": "#mesh_atlas"},
-				"down": {"uv": [12.5, 13.25, 14.5, 13.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [6.25, 8.875, 6, 9], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.75, 8.375, 7.625, 8.5], "texture": "#voxels_atlas"},
+				"south": {"uv": [6.25, 8.375, 6.5, 8.5], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.5, 8.375, 7.625, 8.5], "texture": "#voxels_atlas"},
+				"up": {"uv": [6, 9.125, 6.25, 9], "texture": "#voxels_atlas"},
+				"down": {"uv": [6, 9.125, 6.25, 9.25], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7, 11.5, 8.5],
-			"to": [9, 12.25, 8.75],
+			"from": [7.25, 5, 7.25],
+			"to": [7.75, 11, 7.5],
 			"faces": {
-				"north": {"uv": [9, 12.25, 7, 13], "texture": "#mesh_atlas"},
-				"east": {"uv": [4, 2.25, 3.75, 3], "texture": "#mesh_atlas"},
-				"south": {"uv": [9, 12.25, 11, 13], "texture": "#mesh_atlas"},
-				"west": {"uv": [3.5, 2.25, 3.75, 3], "texture": "#mesh_atlas"},
-				"up": {"uv": [12.5, 13.25, 14.5, 13], "texture": "#mesh_atlas"},
-				"down": {"uv": [10.5, 11.75, 12.5, 12], "texture": "#mesh_atlas"}
+				"north": {"uv": [6.75, 13, 6.5, 16], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.375, 10, 7.25, 13], "texture": "#voxels_atlas"},
+				"south": {"uv": [6.5, 10, 6.75, 13], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.25, 13, 7.375, 16], "texture": "#voxels_atlas"},
+				"up": {"uv": [6.25, 8.125, 6.5, 8], "texture": "#voxels_atlas"},
+				"down": {"uv": [6.25, 8.125, 6.5, 8.25], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7, 12.75, 8.5],
-			"to": [7.25, 13, 8.75],
+			"from": [7.25, 5, 9.5],
+			"to": [7.75, 11, 9.75],
 			"faces": {
-				"north": {"uv": [4.25, 2.75, 4, 3], "texture": "#mesh_atlas"},
-				"east": {"uv": [5, 1.5, 4.75, 1.75], "texture": "#mesh_atlas"},
-				"south": {"uv": [4.25, 2.75, 4.5, 3], "texture": "#mesh_atlas"},
-				"west": {"uv": [4, 1.25, 4.25, 1.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [4.75, 3.25, 5, 3], "texture": "#mesh_atlas"},
-				"down": {"uv": [4.5, 3, 4.75, 3.25], "texture": "#mesh_atlas"}
+				"north": {"uv": [7, 13, 6.75, 16], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.5, 10, 7.375, 13], "texture": "#voxels_atlas"},
+				"south": {"uv": [6.75, 10, 7, 13], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.5, 10, 7.625, 13], "texture": "#voxels_atlas"},
+				"up": {"uv": [6.5, 9.875, 6.75, 9.75], "texture": "#voxels_atlas"},
+				"down": {"uv": [6.5, 9.875, 6.75, 10], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7, 13.25, 9.25],
-			"to": [7.25, 13.5, 9.5],
+			"from": [7.25, 5.25, 7.5],
+			"to": [9.75, 10.75, 9.5],
 			"faces": {
-				"north": {"uv": [4.5, 2.5, 4.25, 2.75], "texture": "#mesh_atlas"},
-				"east": {"uv": [4.75, 2.75, 4.5, 3], "texture": "#mesh_atlas"},
-				"south": {"uv": [4, 2.5, 4.25, 2.75], "texture": "#mesh_atlas"},
-				"west": {"uv": [4.75, 2.75, 5, 3], "texture": "#mesh_atlas"},
-				"up": {"uv": [4.75, 2, 5, 1.75], "texture": "#mesh_atlas"},
-				"down": {"uv": [4.5, 1.5, 4.75, 1.75], "texture": "#mesh_atlas"}
+				"north": {"uv": [1.25, 13.25, 0, 16], "texture": "#voxels_atlas"},
+				"east": {"uv": [2.25, 13.25, 1.25, 16], "texture": "#voxels_atlas"},
+				"south": {"uv": [0, 10.5, 1.25, 13.25], "texture": "#voxels_atlas"},
+				"west": {"uv": [2.25, 10.5, 3.25, 13.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [0, 9.5, 1.25, 8.5], "texture": "#voxels_atlas"},
+				"down": {"uv": [0, 9.5, 1.25, 10.5], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.25, 7.5, 7.25],
-			"to": [8.75, 7.75, 8.75],
+			"from": [7.5, 5, 7],
+			"to": [9.5, 5.25, 7.25],
 			"faces": {
-				"north": {"uv": [5.5, 11.25, 4, 11.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [10, 11.25, 8.5, 11.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [7, 11.25, 8.5, 11.5], "texture": "#mesh_atlas"},
-				"west": {"uv": [14, 11.75, 15.5, 12], "texture": "#mesh_atlas"},
-				"up": {"uv": [9, 14.5, 10.5, 13], "texture": "#mesh_atlas"},
-				"down": {"uv": [11, 14.5, 12.5, 16], "texture": "#mesh_atlas"}
+				"north": {"uv": [14.125, 15.75, 13.125, 15.875], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.875, 9.375, 7.75, 9.5], "texture": "#voxels_atlas"},
+				"south": {"uv": [14.125, 15.75, 15.125, 15.875], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.625, 8.25, 7.75, 8.375], "texture": "#voxels_atlas"},
+				"up": {"uv": [9.125, 15.75, 10.125, 15.625], "texture": "#voxels_atlas"},
+				"down": {"uv": [8.125, 15.625, 9.125, 15.75], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.25, 7.75, 7],
-			"to": [8.75, 8.5, 7.25],
+			"from": [7.5, 5, 9.75],
+			"to": [9.5, 5.25, 10],
 			"faces": {
-				"north": {"uv": [9, 11.5, 7.5, 12.25], "texture": "#mesh_atlas"},
-				"east": {"uv": [3.5, 0, 3.25, 0.75], "texture": "#mesh_atlas"},
-				"south": {"uv": [9, 11.5, 10.5, 12.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [3.25, 2.25, 3.5, 3], "texture": "#mesh_atlas"},
-				"up": {"uv": [14.5, 11.5, 16, 11.25], "texture": "#mesh_atlas"},
-				"down": {"uv": [10, 11.25, 11.5, 11.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [13.125, 15.625, 12.125, 15.75], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.625, 8.75, 7.5, 8.875], "texture": "#voxels_atlas"},
+				"south": {"uv": [13.125, 15.625, 14.125, 15.75], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.75, 9.125, 7.875, 9.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [11.125, 15.75, 12.125, 15.625], "texture": "#voxels_atlas"},
+				"down": {"uv": [10.125, 15.625, 11.125, 15.75], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.25, 7.75, 8.75],
-			"to": [8.75, 8.5, 9],
+			"from": [7.5, 10.75, 7],
+			"to": [9.5, 11, 7.25],
 			"faces": {
-				"north": {"uv": [16, 14.25, 14.5, 15], "texture": "#mesh_atlas"},
-				"east": {"uv": [4, 1.5, 3.75, 2.25], "texture": "#mesh_atlas"},
-				"south": {"uv": [14.5, 13.5, 16, 14.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [3.75, 0.75, 4, 1.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [5.5, 11.25, 7, 11], "texture": "#mesh_atlas"},
-				"down": {"uv": [4, 11, 5.5, 11.25], "texture": "#mesh_atlas"}
+				"north": {"uv": [11.125, 15.875, 10.125, 16], "texture": "#voxels_atlas"},
+				"east": {"uv": [5, 8, 4.875, 8.125], "texture": "#voxels_atlas"},
+				"south": {"uv": [11.125, 15.875, 12.125, 16], "texture": "#voxels_atlas"},
+				"west": {"uv": [4.75, 8, 4.875, 8.125], "texture": "#voxels_atlas"},
+				"up": {"uv": [9.125, 16, 10.125, 15.875], "texture": "#voxels_atlas"},
+				"down": {"uv": [8.125, 15.875, 9.125, 16], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.25, 8.5, 7.25],
-			"to": [8.75, 11.5, 7.5],
+			"from": [7.5, 10.75, 8],
+			"to": [9.5, 11, 9],
 			"faces": {
-				"north": {"uv": [1.5, 2.5, 0, 5.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [3.75, 6.5, 3.5, 9.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [0, 5.5, 1.5, 8.5], "texture": "#mesh_atlas"},
-				"west": {"uv": [3.25, 6.5, 3.5, 9.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [12.5, 11.75, 14, 11.5], "texture": "#mesh_atlas"},
-				"down": {"uv": [12.5, 11.75, 14, 12], "texture": "#mesh_atlas"}
+				"north": {"uv": [15.125, 15.875, 14.125, 16], "texture": "#voxels_atlas"},
+				"east": {"uv": [10.625, 15.5, 10.125, 15.625], "texture": "#voxels_atlas"},
+				"south": {"uv": [8.125, 15.75, 9.125, 15.875], "texture": "#voxels_atlas"},
+				"west": {"uv": [9.625, 15.5, 10.125, 15.625], "texture": "#voxels_atlas"},
+				"up": {"uv": [0, 8.5, 1, 8], "texture": "#voxels_atlas"},
+				"down": {"uv": [1.25, 8.375, 2.25, 8.875], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.25, 8.5, 8.5],
-			"to": [8.75, 11.5, 8.75],
+			"from": [7.5, 10.75, 9.75],
+			"to": [9.5, 11, 10],
 			"faces": {
-				"north": {"uv": [5, 13, 3.5, 16], "texture": "#mesh_atlas"},
-				"east": {"uv": [3.75, 3.5, 3.5, 6.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [2, 13, 3.5, 16], "texture": "#mesh_atlas"},
-				"west": {"uv": [3.25, 3.5, 3.5, 6.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [7, 11.25, 8.5, 11], "texture": "#mesh_atlas"},
-				"down": {"uv": [5.5, 11.25, 7, 11.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [12.125, 15.75, 11.125, 15.875], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.375, 8.875, 7.25, 9], "texture": "#voxels_atlas"},
+				"south": {"uv": [12.125, 15.75, 13.125, 15.875], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.25, 9.25, 7.375, 9.375], "texture": "#voxels_atlas"},
+				"up": {"uv": [10.125, 15.875, 11.125, 15.75], "texture": "#voxels_atlas"},
+				"down": {"uv": [9.125, 15.75, 10.125, 15.875], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.25, 11.5, 7],
-			"to": [8.75, 12.25, 7.25],
+			"from": [7.5, 11.25, 9],
+			"to": [7.75, 11.5, 9.75],
 			"faces": {
-				"north": {"uv": [15.5, 12.25, 14, 13], "texture": "#mesh_atlas"},
-				"east": {"uv": [3.75, 1.5, 3.5, 2.25], "texture": "#mesh_atlas"},
-				"south": {"uv": [3, 11.5, 4.5, 12.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [3.25, 1.5, 3.5, 2.25], "texture": "#mesh_atlas"},
-				"up": {"uv": [13, 11.5, 14.5, 11.25], "texture": "#mesh_atlas"},
-				"down": {"uv": [11.5, 11.25, 13, 11.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [7.375, 8.125, 7.25, 8.25], "texture": "#voxels_atlas"},
+				"east": {"uv": [8.5, 15, 8.125, 15.125], "texture": "#voxels_atlas"},
+				"south": {"uv": [7.25, 8, 7.375, 8.125], "texture": "#voxels_atlas"},
+				"west": {"uv": [8.125, 15.125, 8.5, 15.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [5.5, 8.375, 5.625, 8], "texture": "#voxels_atlas"},
+				"down": {"uv": [5.375, 9.75, 5.5, 10.125], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.25, 11.5, 8.75],
-			"to": [8.75, 12.25, 9],
+			"from": [7.5, 11.5, 8.75],
+			"to": [7.75, 12.25, 9],
 			"faces": {
-				"north": {"uv": [12.5, 12.25, 11, 13], "texture": "#mesh_atlas"},
-				"east": {"uv": [3.5, 0.75, 3.25, 1.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [12.5, 12.25, 14, 13], "texture": "#mesh_atlas"},
-				"west": {"uv": [3.5, 0.75, 3.75, 1.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [10.5, 11.75, 12, 11.5], "texture": "#mesh_atlas"},
-				"down": {"uv": [14, 11.5, 15.5, 11.75], "texture": "#mesh_atlas"}
+				"north": {"uv": [6.5, 9.25, 6.375, 9.625], "texture": "#voxels_atlas"},
+				"east": {"uv": [6.375, 8.5, 6.25, 8.875], "texture": "#voxels_atlas"},
+				"south": {"uv": [6.25, 8.875, 6.375, 9.25], "texture": "#voxels_atlas"},
+				"west": {"uv": [6.375, 8.875, 6.5, 9.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [7.375, 9.875, 7.5, 9.75], "texture": "#voxels_atlas"},
+				"down": {"uv": [7.375, 9.875, 7.5, 10], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.25, 12.25, 7.5],
-			"to": [8.75, 12.5, 8.5],
+			"from": [7.5, 11.5, 9.75],
+			"to": [7.75, 12.25, 10],
 			"faces": {
-				"north": {"uv": [14, 12, 12.5, 12.25], "texture": "#mesh_atlas"},
-				"east": {"uv": [5, 8.5, 4, 8.75], "texture": "#mesh_atlas"},
-				"south": {"uv": [14, 12, 15.5, 12.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [4, 8.75, 5, 9], "texture": "#mesh_atlas"},
-				"up": {"uv": [14.5, 16, 16, 15], "texture": "#mesh_atlas"},
-				"down": {"uv": [11, 13.5, 12.5, 14.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [3.375, 8, 3.25, 8.375], "texture": "#voxels_atlas"},
+				"east": {"uv": [4, 9.25, 3.875, 9.625], "texture": "#voxels_atlas"},
+				"south": {"uv": [3.375, 8, 3.5, 8.375], "texture": "#voxels_atlas"},
+				"west": {"uv": [3.875, 9.625, 4, 10], "texture": "#voxels_atlas"},
+				"up": {"uv": [7.375, 9.625, 7.5, 9.5], "texture": "#voxels_atlas"},
+				"down": {"uv": [7.375, 9.625, 7.5, 9.75], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.25, 13, 8.25],
-			"to": [8.5, 13.25, 8.5],
+			"from": [7.5, 12.25, 9],
+			"to": [9.25, 12.5, 9.25],
 			"faces": {
-				"north": {"uv": [13.5, 11, 12.25, 11.25], "texture": "#mesh_atlas"},
-				"east": {"uv": [4.25, 1.75, 4, 2], "texture": "#mesh_atlas"},
-				"south": {"uv": [11, 11, 12.25, 11.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [4, 0.25, 4.25, 0.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [8.5, 11.25, 9.75, 11], "texture": "#mesh_atlas"},
-				"down": {"uv": [9.75, 11, 11, 11.25], "texture": "#mesh_atlas"}
+				"north": {"uv": [15.875, 15.625, 15, 15.75], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.5, 9, 7.375, 9.125], "texture": "#voxels_atlas"},
+				"south": {"uv": [15.125, 15.875, 16, 16], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.375, 9.125, 7.5, 9.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [15.125, 15.875, 16, 15.75], "texture": "#voxels_atlas"},
+				"down": {"uv": [14.125, 15.625, 15, 15.75], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.25, 13.5, 9.25],
-			"to": [7.5, 14, 9.5],
+			"from": [7.5, 12.25, 9.25],
+			"to": [7.75, 12.5, 9.75],
 			"faces": {
-				"north": {"uv": [4.75, 4.75, 4.5, 5.25], "texture": "#mesh_atlas"},
-				"east": {"uv": [5, 4.75, 4.75, 5.25], "texture": "#mesh_atlas"},
-				"south": {"uv": [4.75, 5.75, 5, 6.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [4, 5.75, 4.25, 6.25], "texture": "#mesh_atlas"},
-				"up": {"uv": [4.5, 2.75, 4.75, 2.5], "texture": "#mesh_atlas"},
-				"down": {"uv": [4.75, 2.5, 5, 2.75], "texture": "#mesh_atlas"}
+				"north": {"uv": [7.5, 8.875, 7.375, 9], "texture": "#voxels_atlas"},
+				"east": {"uv": [7, 8.875, 6.75, 9], "texture": "#voxels_atlas"},
+				"south": {"uv": [7.375, 8.75, 7.5, 8.875], "texture": "#voxels_atlas"},
+				"west": {"uv": [6.75, 9, 7, 9.125], "texture": "#voxels_atlas"},
+				"up": {"uv": [6.75, 9.625, 6.875, 9.375], "texture": "#voxels_atlas"},
+				"down": {"uv": [6.625, 9, 6.75, 9.25], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.5, 8.5, 7],
-			"to": [8.5, 11.5, 7.25],
+			"from": [7.75, 5.25, 7],
+			"to": [9.25, 10.75, 7.5],
 			"faces": {
-				"north": {"uv": [7, 13, 6, 16], "texture": "#mesh_atlas"},
-				"east": {"uv": [3.25, 2.5, 3, 5.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [8, 13, 9, 16], "texture": "#mesh_atlas"},
-				"west": {"uv": [3, 5.5, 3.25, 8.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [4, 8.25, 5, 8], "texture": "#mesh_atlas"},
-				"down": {"uv": [4, 8.25, 5, 8.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [5.5, 10.5, 4.75, 13.25], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.25, 10.5, 7, 13.25], "texture": "#voxels_atlas"},
+				"south": {"uv": [4.75, 13.25, 5.5, 16], "texture": "#voxels_atlas"},
+				"west": {"uv": [7, 13.25, 7.25, 16], "texture": "#voxels_atlas"},
+				"up": {"uv": [4, 9.75, 4.75, 9.5], "texture": "#voxels_atlas"},
+				"down": {"uv": [4, 9.75, 4.75, 10], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.5, 8.5, 8.75],
-			"to": [8.5, 11.5, 9],
+			"from": [7.75, 5.25, 9.5],
+			"to": [9.75, 10.75, 9.75],
 			"faces": {
-				"north": {"uv": [6, 13, 5, 16], "texture": "#mesh_atlas"},
-				"east": {"uv": [4, 6.5, 3.75, 9.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [7, 13, 8, 16], "texture": "#mesh_atlas"},
-				"west": {"uv": [3, 8.5, 3.25, 11.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [4, 7.75, 5, 7.5], "texture": "#mesh_atlas"},
-				"down": {"uv": [4, 7.75, 5, 8], "texture": "#mesh_atlas"}
+				"north": {"uv": [2.25, 10.5, 1.25, 13.25], "texture": "#voxels_atlas"},
+				"east": {"uv": [8, 10.5, 7.875, 13.25], "texture": "#voxels_atlas"},
+				"south": {"uv": [2.25, 13.25, 3.25, 16], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.875, 13.25, 8, 16], "texture": "#voxels_atlas"},
+				"up": {"uv": [12.125, 16, 13.125, 15.875], "texture": "#voxels_atlas"},
+				"down": {"uv": [13.125, 15.875, 14.125, 16], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.5, 12.25, 7.25],
-			"to": [8.5, 12.5, 7.5],
+			"from": [7.75, 5.25, 9.75],
+			"to": [9.25, 10.75, 10],
 			"faces": {
-				"north": {"uv": [14.5, 11, 13.5, 11.25], "texture": "#mesh_atlas"},
-				"east": {"uv": [4.5, 1, 4.25, 1.25], "texture": "#mesh_atlas"},
-				"south": {"uv": [14.5, 11, 15.5, 11.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [4, 1, 4.25, 1.25], "texture": "#mesh_atlas"},
-				"up": {"uv": [4, 7.25, 5, 7], "texture": "#mesh_atlas"},
-				"down": {"uv": [4, 7.25, 5, 7.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [6.25, 13.25, 5.5, 16], "texture": "#voxels_atlas"},
+				"east": {"uv": [8.125, 13.25, 8, 16], "texture": "#voxels_atlas"},
+				"south": {"uv": [5.5, 10.5, 6.25, 13.25], "texture": "#voxels_atlas"},
+				"west": {"uv": [8, 10.5, 8.125, 13.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [4, 8.25, 4.75, 8.125], "texture": "#voxels_atlas"},
+				"down": {"uv": [5.5, 10.125, 6.25, 10.25], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.5, 12.25, 8.5],
-			"to": [8.5, 13.25, 8.75],
+			"from": [7.75, 10.75, 7.75],
+			"to": [9.25, 11, 8],
 			"faces": {
-				"north": {"uv": [3, 1.5, 2, 2.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [11, 13.5, 10.75, 14.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [2, 2.5, 3, 3.5], "texture": "#mesh_atlas"},
-				"west": {"uv": [10.5, 13.5, 10.75, 14.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [4, 10.75, 5, 10.5], "texture": "#mesh_atlas"},
-				"down": {"uv": [4, 10.75, 5, 11], "texture": "#mesh_atlas"}
+				"north": {"uv": [5.5, 10.25, 4.75, 10.375], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.5, 8.25, 7.375, 8.375], "texture": "#voxels_atlas"},
+				"south": {"uv": [4.75, 10.125, 5.5, 10.25], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.375, 8.5, 7.5, 8.625], "texture": "#voxels_atlas"},
+				"up": {"uv": [4.75, 10.5, 5.5, 10.375], "texture": "#voxels_atlas"},
+				"down": {"uv": [4, 8, 4.75, 8.125], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.5, 12.5, 7.5],
-			"to": [8.5, 13.5, 8.25],
+			"from": [7.75, 10.75, 9],
+			"to": [9.25, 11, 9.25],
 			"faces": {
-				"north": {"uv": [3, 3.5, 2, 4.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [4, 9.5, 3.25, 10.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [2, 4.5, 3, 5.5], "texture": "#mesh_atlas"},
-				"west": {"uv": [3.25, 10.5, 4, 11.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [2, 1.5, 3, 0.75], "texture": "#mesh_atlas"},
-				"down": {"uv": [2, 0, 3, 0.75], "texture": "#mesh_atlas"}
+				"north": {"uv": [5.5, 9, 4.75, 9.125], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.5, 8, 7.375, 8.125], "texture": "#voxels_atlas"},
+				"south": {"uv": [4.75, 8.875, 5.5, 9], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.375, 8.125, 7.5, 8.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [4.75, 9.375, 5.5, 9.25], "texture": "#voxels_atlas"},
+				"down": {"uv": [4.75, 9.125, 5.5, 9.25], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.5, 12.5, 8.25],
-			"to": [8.5, 13, 8.5],
+			"from": [7.75, 11.5, 8.25],
+			"to": [9.25, 11.75, 8.75],
 			"faces": {
-				"north": {"uv": [15.5, 13, 14.5, 13.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [4.5, 4.75, 4.25, 5.25], "texture": "#mesh_atlas"},
-				"south": {"uv": [11, 13, 12, 13.5], "texture": "#mesh_atlas"},
-				"west": {"uv": [4, 4.75, 4.25, 5.25], "texture": "#mesh_atlas"},
-				"up": {"uv": [4, 10.25, 5, 10], "texture": "#mesh_atlas"},
-				"down": {"uv": [4, 10.25, 5, 10.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [6.25, 10.375, 5.5, 10.5], "texture": "#voxels_atlas"},
+				"east": {"uv": [8.375, 12.125, 8.125, 12.25], "texture": "#voxels_atlas"},
+				"south": {"uv": [5.5, 10.25, 6.25, 10.375], "texture": "#voxels_atlas"},
+				"west": {"uv": [6, 10, 6.25, 10.125], "texture": "#voxels_atlas"},
+				"up": {"uv": [2.25, 9.25, 3, 9], "texture": "#voxels_atlas"},
+				"down": {"uv": [2.25, 9.25, 3, 9.5], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.5, 13.25, 8.25],
-			"to": [8.5, 13.5, 8.5],
+			"from": [8, 7.75, 10.25],
+			"to": [9, 11, 10.5],
 			"faces": {
-				"north": {"uv": [5, 9.25, 4, 9.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [5, 1.25, 4.75, 1.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [4, 9, 5, 9.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [4, 2.25, 4.25, 2.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [4, 9.75, 5, 9.5], "texture": "#mesh_atlas"},
-				"down": {"uv": [4, 9.75, 5, 10], "texture": "#mesh_atlas"}
+				"north": {"uv": [1.75, 8.875, 1.25, 10.5], "texture": "#voxels_atlas"},
+				"east": {"uv": [3.5, 8.375, 3.375, 10], "texture": "#voxels_atlas"},
+				"south": {"uv": [1.75, 8.875, 2.25, 10.5], "texture": "#voxels_atlas"},
+				"west": {"uv": [3.25, 8.375, 3.375, 10], "texture": "#voxels_atlas"},
+				"up": {"uv": [5.5, 9.375, 6, 9.25], "texture": "#voxels_atlas"},
+				"down": {"uv": [5.5, 9.375, 6, 9.5], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.5, 13.25, 8.5],
-			"to": [7.75, 13.5, 8.75],
+			"from": [8, 10.75, 7.5],
+			"to": [9, 11, 7.75],
 			"faces": {
-				"north": {"uv": [5, 2.25, 4.75, 2.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [4.75, 2, 4.5, 2.25], "texture": "#mesh_atlas"},
-				"south": {"uv": [4, 2, 4.25, 2.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [4.25, 2, 4.5, 2.25], "texture": "#mesh_atlas"},
-				"up": {"uv": [4.5, 2.5, 4.75, 2.25], "texture": "#mesh_atlas"},
-				"down": {"uv": [4.25, 2.25, 4.5, 2.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [14.125, 15.5, 13.625, 15.625], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.5, 8.375, 7.375, 8.5], "texture": "#voxels_atlas"},
+				"south": {"uv": [5, 9.5, 5.5, 9.625], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.375, 8.625, 7.5, 8.75], "texture": "#voxels_atlas"},
+				"up": {"uv": [11.125, 15.625, 11.625, 15.5], "texture": "#voxels_atlas"},
+				"down": {"uv": [5.5, 8.875, 6, 9], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.5, 13.5, 8.75],
-			"to": [7.75, 13.75, 9],
+			"from": [8, 10.75, 9.25],
+			"to": [9, 11, 9.5],
 			"faces": {
-				"north": {"uv": [4.5, 1.75, 4.25, 2], "texture": "#mesh_atlas"},
-				"east": {"uv": [5, 0.75, 4.75, 1], "texture": "#mesh_atlas"},
-				"south": {"uv": [4, 0.5, 4.25, 0.75], "texture": "#mesh_atlas"},
-				"west": {"uv": [4.25, 1.25, 4.5, 1.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [4.25, 0.75, 4.5, 0.5], "texture": "#mesh_atlas"},
-				"down": {"uv": [4.75, 2, 5, 2.25], "texture": "#mesh_atlas"}
+				"north": {"uv": [6.25, 8.375, 5.75, 8.5], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.625, 9.875, 7.5, 10], "texture": "#voxels_atlas"},
+				"south": {"uv": [5.75, 8.75, 6.25, 8.875], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.75, 9.25, 7.875, 9.375], "texture": "#voxels_atlas"},
+				"up": {"uv": [5.75, 8.375, 6.25, 8.25], "texture": "#voxels_atlas"},
+				"down": {"uv": [10.625, 15.5, 11.125, 15.625], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.5, 13.75, 9],
-			"to": [7.75, 14, 9.25],
+			"from": [8, 10.75, 10],
+			"to": [9, 11.25, 10.25],
 			"faces": {
-				"north": {"uv": [4.75, 0.75, 4.5, 1], "texture": "#mesh_atlas"},
-				"east": {"uv": [4.75, 1.25, 4.5, 1.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [4, 0, 4.25, 0.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [4.5, 1.75, 4.75, 2], "texture": "#mesh_atlas"},
-				"up": {"uv": [4.75, 1.25, 5, 1], "texture": "#mesh_atlas"},
-				"down": {"uv": [4.5, 1, 4.75, 1.25], "texture": "#mesh_atlas"}
+				"north": {"uv": [2.75, 8, 2.25, 8.25], "texture": "#voxels_atlas"},
+				"east": {"uv": [6.75, 9.5, 6.625, 9.75], "texture": "#voxels_atlas"},
+				"south": {"uv": [2.75, 8, 3.25, 8.25], "texture": "#voxels_atlas"},
+				"west": {"uv": [6.5, 9, 6.625, 9.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [5, 8.25, 5.5, 8.125], "texture": "#voxels_atlas"},
+				"down": {"uv": [5, 8, 5.5, 8.125], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.75, 10, 9.25],
-			"to": [8.25, 10.25, 9.75],
+			"from": [8, 11, 8],
+			"to": [9, 11.25, 9],
 			"faces": {
-				"north": {"uv": [16, 12.25, 15.5, 12.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [5, 4.25, 4.5, 4.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [12, 11.5, 12.5, 11.75], "texture": "#mesh_atlas"},
-				"west": {"uv": [15.5, 12, 16, 12.25], "texture": "#mesh_atlas"},
-				"up": {"uv": [10.5, 13.5, 11, 13], "texture": "#mesh_atlas"},
-				"down": {"uv": [1.5, 2.75, 2, 3.25], "texture": "#mesh_atlas"}
+				"north": {"uv": [12.625, 15.5, 12.125, 15.625], "texture": "#voxels_atlas"},
+				"east": {"uv": [9.125, 15.5, 8.625, 15.625], "texture": "#voxels_atlas"},
+				"south": {"uv": [11.625, 15.5, 12.125, 15.625], "texture": "#voxels_atlas"},
+				"west": {"uv": [9.125, 15.5, 9.625, 15.625], "texture": "#voxels_atlas"},
+				"up": {"uv": [2.75, 10.5, 3.25, 10], "texture": "#voxels_atlas"},
+				"down": {"uv": [2.25, 9.5, 2.75, 10], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.75, 10.25, 9.5],
-			"to": [8.25, 12.5, 9.75],
+			"from": [8, 11, 9.75],
+			"to": [9, 11.5, 10],
 			"faces": {
-				"north": {"uv": [2, 3.25, 1.5, 5.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [4, 4.25, 3.75, 6.5], "texture": "#mesh_atlas"},
-				"south": {"uv": [1.5, 6.25, 2, 8.5], "texture": "#mesh_atlas"},
-				"west": {"uv": [3, 0.25, 3.25, 2.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [4, 7, 4.5, 6.75], "texture": "#mesh_atlas"},
-				"down": {"uv": [15.5, 11, 16, 11.25], "texture": "#mesh_atlas"}
+				"north": {"uv": [4.5, 8.5, 4, 8.75], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.25, 10, 7.125, 10.25], "texture": "#voxels_atlas"},
+				"south": {"uv": [3.5, 8.5, 4, 8.75], "texture": "#voxels_atlas"},
+				"west": {"uv": [7, 10, 7.125, 10.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [5.5, 9.125, 6, 9], "texture": "#voxels_atlas"},
+				"down": {"uv": [5.5, 9.125, 6, 9.25], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.75, 12.25, 9.25],
-			"to": [8.25, 12.75, 9.5],
+			"from": [8, 11.25, 8.25],
+			"to": [9, 11.5, 8.75],
 			"faces": {
-				"north": {"uv": [12.5, 13, 12, 13.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [4.5, 5.25, 4.25, 5.75], "texture": "#mesh_atlas"},
-				"south": {"uv": [1.5, 5.75, 2, 6.25], "texture": "#mesh_atlas"},
-				"west": {"uv": [4.5, 5.75, 4.75, 6.25], "texture": "#mesh_atlas"},
-				"up": {"uv": [4.25, 6.75, 4.75, 6.5], "texture": "#mesh_atlas"},
-				"down": {"uv": [4.5, 6.75, 5, 7], "texture": "#mesh_atlas"}
+				"north": {"uv": [6.25, 8.625, 5.75, 8.75], "texture": "#voxels_atlas"},
+				"east": {"uv": [6.25, 9.25, 6, 9.375], "texture": "#voxels_atlas"},
+				"south": {"uv": [5.75, 8.5, 6.25, 8.625], "texture": "#voxels_atlas"},
+				"west": {"uv": [6, 9.375, 6.25, 9.5], "texture": "#voxels_atlas"},
+				"up": {"uv": [3.5, 9, 4, 8.75], "texture": "#voxels_atlas"},
+				"down": {"uv": [4, 8.75, 4.5, 9], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.75, 12.5, 7.25],
-			"to": [8.25, 12.75, 7.5],
+			"from": [8, 11.25, 9.5],
+			"to": [9, 11.75, 9.75],
 			"faces": {
-				"north": {"uv": [5, 5.25, 4.5, 5.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [4.5, 1.5, 4.25, 1.75], "texture": "#mesh_atlas"},
-				"south": {"uv": [4, 4.5, 4.5, 4.75], "texture": "#mesh_atlas"},
-				"west": {"uv": [4, 1.5, 4.25, 1.75], "texture": "#mesh_atlas"},
-				"up": {"uv": [4.5, 5.75, 5, 5.5], "texture": "#mesh_atlas"},
-				"down": {"uv": [4.25, 6.25, 4.75, 6.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [4.5, 9, 4, 9.25], "texture": "#voxels_atlas"},
+				"east": {"uv": [6.625, 9.5, 6.5, 9.75], "texture": "#voxels_atlas"},
+				"south": {"uv": [4, 9.25, 4.5, 9.5], "texture": "#voxels_atlas"},
+				"west": {"uv": [4.625, 9, 4.75, 9.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [5.75, 8.125, 6.25, 8], "texture": "#voxels_atlas"},
+				"down": {"uv": [5.75, 8.125, 6.25, 8.25], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.75, 12.5, 8.75],
-			"to": [8.25, 13, 9],
+			"from": [8, 11.5, 7.75],
+			"to": [9, 11.75, 8.25],
 			"faces": {
-				"north": {"uv": [16, 13, 15.5, 13.5], "texture": "#mesh_atlas"},
-				"east": {"uv": [4, 0.25, 3.75, 0.75], "texture": "#mesh_atlas"},
-				"south": {"uv": [15.5, 12.5, 16, 13], "texture": "#mesh_atlas"},
-				"west": {"uv": [4, 3.75, 4.25, 4.25], "texture": "#mesh_atlas"},
-				"up": {"uv": [4, 4.5, 4.5, 4.25], "texture": "#mesh_atlas"},
-				"down": {"uv": [4.5, 4.5, 5, 4.75], "texture": "#mesh_atlas"}
+				"north": {"uv": [13.125, 15.5, 12.625, 15.625], "texture": "#voxels_atlas"},
+				"east": {"uv": [6.75, 9.25, 6.5, 9.375], "texture": "#voxels_atlas"},
+				"south": {"uv": [13.125, 15.5, 13.625, 15.625], "texture": "#voxels_atlas"},
+				"west": {"uv": [6.5, 9.375, 6.75, 9.5], "texture": "#voxels_atlas"},
+				"up": {"uv": [3.5, 8.5, 4, 8.25], "texture": "#voxels_atlas"},
+				"down": {"uv": [3.5, 8, 4, 8.25], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.75, 12.5, 9],
+			"from": [8, 11.5, 8.75],
+			"to": [9, 12.5, 9],
+			"faces": {
+				"north": {"uv": [2.75, 10, 2.25, 10.5], "texture": "#voxels_atlas"},
+				"east": {"uv": [5.25, 8.375, 5.125, 8.875], "texture": "#voxels_atlas"},
+				"south": {"uv": [2.75, 9.5, 3.25, 10], "texture": "#voxels_atlas"},
+				"west": {"uv": [5, 8.375, 5.125, 8.875], "texture": "#voxels_atlas"},
+				"up": {"uv": [5, 9.75, 5.5, 9.625], "texture": "#voxels_atlas"},
+				"down": {"uv": [14.125, 15.5, 14.625, 15.625], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8, 11.5, 9],
+			"to": [9, 12.25, 9.25],
+			"faces": {
+				"north": {"uv": [2.25, 8, 1.75, 8.375], "texture": "#voxels_atlas"},
+				"east": {"uv": [6.375, 9.25, 6.25, 9.625], "texture": "#voxels_atlas"},
+				"south": {"uv": [2.75, 8.25, 3.25, 8.625], "texture": "#voxels_atlas"},
+				"west": {"uv": [6.375, 9.625, 6.5, 10], "texture": "#voxels_atlas"},
+				"up": {"uv": [5, 8.375, 5.5, 8.25], "texture": "#voxels_atlas"},
+				"down": {"uv": [5, 9.375, 5.5, 9.5], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8, 11.5, 9.25],
+			"to": [9, 12, 9.5],
+			"faces": {
+				"north": {"uv": [4.5, 8.25, 4, 8.5], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.375, 9.75, 7.25, 10], "texture": "#voxels_atlas"},
+				"south": {"uv": [3.5, 9, 4, 9.25], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.25, 9.5, 7.375, 9.75], "texture": "#voxels_atlas"},
+				"up": {"uv": [5.5, 9.75, 6, 9.625], "texture": "#voxels_atlas"},
+				"down": {"uv": [5.5, 9.75, 6, 9.875], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8, 11.75, 7.75],
+			"to": [8.25, 12.75, 8],
+			"faces": {
+				"north": {"uv": [5.375, 8.375, 5.25, 8.875], "texture": "#voxels_atlas"},
+				"east": {"uv": [5.75, 8.375, 5.625, 8.875], "texture": "#voxels_atlas"},
+				"south": {"uv": [5.375, 8.375, 5.5, 8.875], "texture": "#voxels_atlas"},
+				"west": {"uv": [5.5, 8.375, 5.625, 8.875], "texture": "#voxels_atlas"},
+				"up": {"uv": [7.625, 9.75, 7.75, 9.625], "texture": "#voxels_atlas"},
+				"down": {"uv": [7.75, 9.625, 7.875, 9.75], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8, 11.75, 8],
+			"to": [9, 12.5, 8.75],
+			"faces": {
+				"north": {"uv": [2.75, 8.625, 2.25, 9], "texture": "#voxels_atlas"},
+				"east": {"uv": [3.875, 9.625, 3.5, 10], "texture": "#voxels_atlas"},
+				"south": {"uv": [1.25, 8, 1.75, 8.375], "texture": "#voxels_atlas"},
+				"west": {"uv": [3.5, 9.25, 3.875, 9.625], "texture": "#voxels_atlas"},
+				"up": {"uv": [2.75, 9, 3.25, 8.625], "texture": "#voxels_atlas"},
+				"down": {"uv": [2.25, 8.25, 2.75, 8.625], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8, 12, 9.25],
+			"to": [8.25, 12.5, 9.5],
+			"faces": {
+				"north": {"uv": [4.625, 9, 4.5, 9.25], "texture": "#voxels_atlas"},
+				"east": {"uv": [7, 9.375, 6.875, 9.625], "texture": "#voxels_atlas"},
+				"south": {"uv": [7.125, 10.25, 7.25, 10.5], "texture": "#voxels_atlas"},
+				"west": {"uv": [7, 10.25, 7.125, 10.5], "texture": "#voxels_atlas"},
+				"up": {"uv": [7.5, 8.625, 7.625, 8.5], "texture": "#voxels_atlas"},
+				"down": {"uv": [7.25, 8.5, 7.375, 8.625], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8, 12.5, 7.5],
+			"to": [9, 12.75, 7.75],
+			"faces": {
+				"north": {"uv": [6, 9.875, 5.5, 10], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.375, 9.375, 7.25, 9.5], "texture": "#voxels_atlas"},
+				"south": {"uv": [5.5, 10, 6, 10.125], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.625, 8.125, 7.75, 8.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [5.5, 9.625, 6, 9.5], "texture": "#voxels_atlas"},
+				"down": {"uv": [8.125, 15.5, 8.625, 15.625], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8, 12.5, 8.75],
 			"to": [8.25, 12.75, 9.25],
 			"faces": {
-				"north": {"uv": [4.5, 3.5, 4, 3.75], "texture": "#mesh_atlas"},
-				"east": {"uv": [4.5, 0.75, 4.25, 1], "texture": "#mesh_atlas"},
-				"south": {"uv": [4.5, 3.5, 5, 3.75], "texture": "#mesh_atlas"},
-				"west": {"uv": [4, 0.75, 4.25, 1], "texture": "#mesh_atlas"},
-				"up": {"uv": [4.25, 4, 4.75, 3.75], "texture": "#mesh_atlas"},
-				"down": {"uv": [4.25, 4, 4.75, 4.25], "texture": "#mesh_atlas"}
+				"north": {"uv": [7.375, 8.75, 7.25, 8.875], "texture": "#voxels_atlas"},
+				"east": {"uv": [6.75, 8.75, 6.5, 8.875], "texture": "#voxels_atlas"},
+				"south": {"uv": [7.25, 8.625, 7.375, 8.75], "texture": "#voxels_atlas"},
+				"west": {"uv": [7, 8.25, 7.25, 8.375], "texture": "#voxels_atlas"},
+				"up": {"uv": [7.125, 9.875, 7.25, 9.625], "texture": "#voxels_atlas"},
+				"down": {"uv": [7, 9.625, 7.125, 9.875], "texture": "#voxels_atlas"}
 			}
 		},
 		{
 			"name": "Voxels",
-			"from": [7.75, 13, 7.25],
-			"to": [8.25, 13.5, 7.5],
+			"from": [8.25, 7.5, 10.25],
+			"to": [8.75, 7.75, 10.5],
 			"faces": {
-				"north": {"uv": [16, 11.5, 15.5, 12], "texture": "#mesh_atlas"},
-				"east": {"uv": [4.5, 5.75, 4.25, 6.25], "texture": "#mesh_atlas"},
-				"south": {"uv": [3.25, 3, 3.75, 3.5], "texture": "#mesh_atlas"},
-				"west": {"uv": [3.75, 3, 4, 3.5], "texture": "#mesh_atlas"},
-				"up": {"uv": [4.5, 3.5, 5, 3.25], "texture": "#mesh_atlas"},
-				"down": {"uv": [4, 3.25, 4.5, 3.5], "texture": "#mesh_atlas"}
+				"north": {"uv": [6.75, 8.375, 6.5, 8.5], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.625, 9.375, 7.5, 9.5], "texture": "#voxels_atlas"},
+				"south": {"uv": [6.5, 8.25, 6.75, 8.375], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.5, 9.75, 7.625, 9.875], "texture": "#voxels_atlas"},
+				"up": {"uv": [6.5, 8.625, 6.75, 8.5], "texture": "#voxels_atlas"},
+				"down": {"uv": [6.5, 8.625, 6.75, 8.75], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8.25, 11.25, 8],
+			"to": [8.75, 11.5, 8.25],
+			"faces": {
+				"north": {"uv": [7, 9.25, 6.75, 9.375], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.625, 9.125, 7.5, 9.25], "texture": "#voxels_atlas"},
+				"south": {"uv": [6.75, 9.125, 7, 9.25], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.5, 9.25, 7.625, 9.375], "texture": "#voxels_atlas"},
+				"up": {"uv": [6.75, 9.75, 7, 9.625], "texture": "#voxels_atlas"},
+				"down": {"uv": [6.75, 9.75, 7, 9.875], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8.25, 11.25, 8.75],
+			"to": [8.75, 11.5, 9],
+			"faces": {
+				"north": {"uv": [6.75, 8.875, 6.5, 9], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.625, 8.625, 7.5, 8.75], "texture": "#voxels_atlas"},
+				"south": {"uv": [6.5, 8, 6.75, 8.125], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.5, 9, 7.625, 9.125], "texture": "#voxels_atlas"},
+				"up": {"uv": [4.5, 8.375, 4.75, 8.25], "texture": "#voxels_atlas"},
+				"down": {"uv": [4.5, 8.875, 4.75, 9], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8.25, 12.25, 7.5],
+			"to": [8.75, 12.5, 8],
+			"faces": {
+				"north": {"uv": [7, 8.75, 6.75, 8.875], "texture": "#voxels_atlas"},
+				"east": {"uv": [7, 8.625, 6.75, 8.75], "texture": "#voxels_atlas"},
+				"south": {"uv": [6.75, 9.875, 7, 10], "texture": "#voxels_atlas"},
+				"west": {"uv": [6.25, 8.25, 6.5, 8.375], "texture": "#voxels_atlas"},
+				"up": {"uv": [3, 9.25, 3.25, 9], "texture": "#voxels_atlas"},
+				"down": {"uv": [3, 9.25, 3.25, 9.5], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8.25, 12.5, 7.25],
+			"to": [8.75, 12.75, 7.5],
+			"faces": {
+				"north": {"uv": [7, 8.25, 6.75, 8.375], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.75, 8.875, 7.625, 9], "texture": "#voxels_atlas"},
+				"south": {"uv": [6.75, 8.125, 7, 8.25], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.625, 9, 7.75, 9.125], "texture": "#voxels_atlas"},
+				"up": {"uv": [6.75, 8.5, 7, 8.375], "texture": "#voxels_atlas"},
+				"down": {"uv": [6.75, 8.5, 7, 8.625], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8.25, 12.5, 7.75],
+			"to": [9, 12.75, 8],
+			"faces": {
+				"north": {"uv": [15.375, 15.5, 15, 15.625], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.875, 9.5, 7.75, 9.625], "texture": "#voxels_atlas"},
+				"south": {"uv": [15.375, 15.5, 15.75, 15.625], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.625, 8, 7.75, 8.125], "texture": "#voxels_atlas"},
+				"up": {"uv": [14.625, 15.625, 15, 15.5], "texture": "#voxels_atlas"},
+				"down": {"uv": [8.125, 14.875, 8.5, 15], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8.25, 12.5, 8],
+			"to": [8.75, 12.75, 8.75],
+			"faces": {
+				"north": {"uv": [7, 8, 6.75, 8.125], "texture": "#voxels_atlas"},
+				"east": {"uv": [8.5, 15.25, 8.125, 15.375], "texture": "#voxels_atlas"},
+				"south": {"uv": [7, 9.875, 7.25, 10], "texture": "#voxels_atlas"},
+				"west": {"uv": [8.125, 15.375, 8.5, 15.5], "texture": "#voxels_atlas"},
+				"up": {"uv": [5, 10.125, 5.25, 9.75], "texture": "#voxels_atlas"},
+				"down": {"uv": [1, 8.125, 1.25, 8.5], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8.75, 11.75, 7.75],
+			"to": [9, 12.5, 8],
+			"faces": {
+				"north": {"uv": [5.375, 9.75, 5.25, 10.125], "texture": "#voxels_atlas"},
+				"east": {"uv": [6.5, 8.5, 6.375, 8.875], "texture": "#voxels_atlas"},
+				"south": {"uv": [5.625, 8, 5.75, 8.375], "texture": "#voxels_atlas"},
+				"west": {"uv": [6.25, 9.625, 6.375, 10], "texture": "#voxels_atlas"},
+				"up": {"uv": [7.25, 9.125, 7.375, 9], "texture": "#voxels_atlas"},
+				"down": {"uv": [7.25, 9.125, 7.375, 9.25], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8.75, 12, 9.25],
+			"to": [9, 12.5, 9.5],
+			"faces": {
+				"north": {"uv": [7.125, 9.375, 7, 9.625], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.25, 9.125, 7.125, 9.375], "texture": "#voxels_atlas"},
+				"south": {"uv": [7.125, 9.375, 7.25, 9.625], "texture": "#voxels_atlas"},
+				"west": {"uv": [7, 9.125, 7.125, 9.375], "texture": "#voxels_atlas"},
+				"up": {"uv": [7.25, 8.375, 7.375, 8.25], "texture": "#voxels_atlas"},
+				"down": {"uv": [7.25, 8.375, 7.375, 8.5], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [8.75, 12.5, 8.75],
+			"to": [9, 12.75, 9.25],
+			"faces": {
+				"north": {"uv": [7.5, 9.375, 7.375, 9.5], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.25, 8.625, 7, 8.75], "texture": "#voxels_atlas"},
+				"south": {"uv": [7.375, 9.25, 7.5, 9.375], "texture": "#voxels_atlas"},
+				"west": {"uv": [7, 8.75, 7.25, 8.875], "texture": "#voxels_atlas"},
+				"up": {"uv": [7.125, 9.125, 7.25, 8.875], "texture": "#voxels_atlas"},
+				"down": {"uv": [7, 8.875, 7.125, 9.125], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [9.25, 5, 7.25],
+			"to": [9.75, 11, 7.5],
+			"faces": {
+				"north": {"uv": [6.5, 13, 6.25, 16], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.875, 13, 7.75, 16], "texture": "#voxels_atlas"},
+				"south": {"uv": [6.25, 10, 6.5, 13], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.75, 10, 7.875, 13], "texture": "#voxels_atlas"},
+				"up": {"uv": [7, 8.5, 7.25, 8.375], "texture": "#voxels_atlas"},
+				"down": {"uv": [7, 8.5, 7.25, 8.625], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [9.25, 5, 9.5],
+			"to": [9.75, 5.25, 9.75],
+			"faces": {
+				"north": {"uv": [8.375, 14.75, 8.125, 14.875], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.625, 9.5, 7.5, 9.625], "texture": "#voxels_atlas"},
+				"south": {"uv": [8.125, 14.625, 8.375, 14.75], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.5, 9.625, 7.625, 9.75], "texture": "#voxels_atlas"},
+				"up": {"uv": [15.75, 15.625, 16, 15.5], "texture": "#voxels_atlas"},
+				"down": {"uv": [7, 8, 7.25, 8.125], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [9.25, 10.75, 9.5],
+			"to": [9.75, 11, 9.75],
+			"faces": {
+				"north": {"uv": [8.375, 14.25, 8.125, 14.375], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.875, 9, 7.75, 9.125], "texture": "#voxels_atlas"},
+				"south": {"uv": [8.125, 14.125, 8.375, 14.25], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.5, 8.875, 7.625, 9], "texture": "#voxels_atlas"},
+				"up": {"uv": [8.125, 14.5, 8.375, 14.375], "texture": "#voxels_atlas"},
+				"down": {"uv": [8.125, 14.5, 8.375, 14.625], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [9.5, 5, 7.5],
+			"to": [10, 5.25, 7.75],
+			"faces": {
+				"north": {"uv": [8.375, 13.75, 8.125, 13.875], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.625, 8, 7.5, 8.125], "texture": "#voxels_atlas"},
+				"south": {"uv": [8.125, 13.625, 8.375, 13.75], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.5, 8.125, 7.625, 8.25], "texture": "#voxels_atlas"},
+				"up": {"uv": [8.125, 14, 8.375, 13.875], "texture": "#voxels_atlas"},
+				"down": {"uv": [8.125, 14, 8.375, 14.125], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [9.5, 5, 9.25],
+			"to": [10, 5.25, 9.5],
+			"faces": {
+				"north": {"uv": [7.25, 8.125, 7, 8.25], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.75, 9.25, 7.625, 9.375], "texture": "#voxels_atlas"},
+				"south": {"uv": [8.125, 13.25, 8.375, 13.375], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.625, 9.375, 7.75, 9.5], "texture": "#voxels_atlas"},
+				"up": {"uv": [8.125, 13.5, 8.375, 13.375], "texture": "#voxels_atlas"},
+				"down": {"uv": [8.125, 13.5, 8.375, 13.625], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [9.5, 10.75, 7.5],
+			"to": [10, 11, 7.75],
+			"faces": {
+				"north": {"uv": [8.375, 12.875, 8.125, 13], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.75, 8.5, 7.625, 8.625], "texture": "#voxels_atlas"},
+				"south": {"uv": [8.125, 12.75, 8.375, 12.875], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.625, 8.625, 7.75, 8.75], "texture": "#voxels_atlas"},
+				"up": {"uv": [8.125, 13.125, 8.375, 13], "texture": "#voxels_atlas"},
+				"down": {"uv": [8.125, 13.125, 8.375, 13.25], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [9.5, 10.75, 9.25],
+			"to": [10, 11, 9.5],
+			"faces": {
+				"north": {"uv": [8.375, 12.375, 8.125, 12.5], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.875, 9.75, 7.75, 9.875], "texture": "#voxels_atlas"},
+				"south": {"uv": [8.125, 12.25, 8.375, 12.375], "texture": "#voxels_atlas"},
+				"west": {"uv": [7.75, 9.875, 7.875, 10], "texture": "#voxels_atlas"},
+				"up": {"uv": [8.125, 12.625, 8.375, 12.5], "texture": "#voxels_atlas"},
+				"down": {"uv": [8.125, 12.625, 8.375, 12.75], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [9.75, 5, 7.75],
+			"to": [10, 11, 9.25],
+			"faces": {
+				"north": {"uv": [7.625, 13, 7.5, 16], "texture": "#voxels_atlas"},
+				"east": {"uv": [4, 10, 3.25, 13], "texture": "#voxels_atlas"},
+				"south": {"uv": [7.625, 13, 7.75, 16], "texture": "#voxels_atlas"},
+				"west": {"uv": [3.25, 13, 4, 16], "texture": "#voxels_atlas"},
+				"up": {"uv": [4.875, 8.875, 5, 8.125], "texture": "#voxels_atlas"},
+				"down": {"uv": [4.75, 8.125, 4.875, 8.875], "texture": "#voxels_atlas"}
 			}
 		}
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, -2.086, 0]
+			"rotation": [0, 90, 0],
+			"translation": [0.3, -1.5, 0],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, -2.086, 0]
+			"rotation": [0, 90, 0],
+			"translation": [0.3, -1.5, 0],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"firstperson_righthand": {
-			"translation": [-1.391, 0, 0]
+			"rotation": [0, 20, 0],
+			"translation": [-2, 3, 0],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"firstperson_lefthand": {
-			"translation": [-1.391, 0, 0]
+			"rotation": [0, 20, 0],
+			"translation": [-2, 3, 0],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"ground": {
-			"translation": [0, -2.086, 0]
+			"translation": [-0.5, 0, -0.695],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"gui": {
-			"rotation": [50, -121, 32],
-			"translation": [-1.391, -4.869, 0],
-			"scale": [2, 2, 2]
+			"rotation": [-32, -53, -61],
+			"translation": [0.0003, -1.391, 0],
+			"scale": [1.5, 1.5, 1.5]
 		},
 		"head": {
 			"rotation": [0, 0, 90],
-			"translation": [6, -27.5, 0],
-			"scale": [3, 3, 3]
+			"translation": [0, -29, 0],
+			"scale": [2.1, 2.1, 2.1]
+		},
+		"fixed": {
+			"scale": [0.7, 0.7, 0.7]
 		}
 	}
 }
