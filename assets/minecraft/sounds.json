@@ -569,6 +569,16 @@
       "cs/weapons/carbine"
     ]
   },
+  "cs.throwables.grenade-hit": {
+    "sounds": [
+      "cs/throwables/grenade-hit"
+    ]
+  },
+  "cs.throwables.smoke-hit": {
+    "sounds": [
+      "cs/throwables/smoke-hit"
+    ]
+  },
   "cs.throwables.explodegrenade": {
     "sounds": [
       "cs/throwables/explodegrenade"
