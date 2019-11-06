@@ -1,6 +1,6 @@
 {
   "parent": "equipment/smoke",
   "textures": {
-    "voxel_atlas": "grenades/incendiary"
+    "voxels_atlas": "grenades/incendiary"
   }
 }
