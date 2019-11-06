@@ -1,6 +1,6 @@
 {
-  "parent": "item/handheld",
+  "parent": "equipment/flashbang",
   "textures": {
-    "layer0": "equipments/decoy"
+    "voxel_atlas": "grenades/decoy"
   }
 }

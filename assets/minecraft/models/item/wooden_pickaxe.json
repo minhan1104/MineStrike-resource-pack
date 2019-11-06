@@ -7,7 +7,7 @@
 	{"predicate": {"damaged": 0, "damage": 0}, "model": "item/wooden_pickaxe"},
     {"predicate": {"damaged": 0, "damage": 0.01666666666667}, "model": "equipment/grenade"},
 	{"predicate": {"damaged": 0, "damage": 0.03333333333333333}, "model": "equipment/smoke"},
-	{"predicate": {"damaged": 0, "damage": 0.05}, "model": "equipment/radio"},
+	{"predicate": {"damaged": 0, "damage": 0.05}, "model": "equipment/incendiary"},
 	{"predicate": {"damaged": 0, "damage": 0.06666666666666667}, "model": "icon/minestrike"},
 	{"predicate": {"damaged": 0, "damage": 0.08333333333333333}, "model": "icon/tdm"},
 	{"predicate": {"damaged": 0, "damage": 0.1}, "model": "equipment/flashbang"},
