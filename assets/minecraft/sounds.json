@@ -569,6 +569,21 @@
       "cs/weapons/carbine"
     ]
   },
+  "cs.throwables.inc-explode": {
+    "sounds": [
+      "cs/throwables/inc-explode"
+    ]
+  },
+  "cs.throwables.molo-explode": {
+    "sounds": [
+      "cs/throwables/molo-explode"
+    ]
+  },
+  "cs.throwables.fire-extinguish": {
+    "sounds": [
+      "cs/throwables/fire-extinguish"
+    ]
+  },
   "cs.throwables.grenade-hit": {
     "sounds": [
       "cs/throwables/grenade-hit"
@@ -1291,12 +1306,26 @@
   },
   "cs.radio.flashbang": {
     "sounds": [
-      "cs/radio/flashbang"
+      "cs/radio/flashbang",
+      "cs/radio/flashbang-1"
     ]
   },
   "cs.radio.smoke": {
     "sounds": [
-      "cs/radio/smoke"
+      "cs/radio/smoke",
+      "cs/radio/smoke-1"
+    ]
+  },
+  "cs.radio.decoy": {
+    "sounds": [
+      "cs/radio/decoy",
+      "cs/radio/decoy-1"
+    ]
+  },
+  "cs.radio.incendiary": {
+    "sounds": [
+      "cs/radio/incendiary",
+      "cs/radio/incendiary-1"
     ]
   },
   "cs.ze.box": {
