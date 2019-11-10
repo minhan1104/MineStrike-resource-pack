@@ -57,7 +57,7 @@
 		{ "predicate": {"damaged": 0, "damage": 0.199203187250996}, "model": "gun/xm1014_gold"},
 		{ "predicate": {"damaged": 0, "damage": 0.20318725099601592}, "model": "gun/awp-supreme"},
 		{ "predicate": {"damaged": 0, "damage": 0.20717131474103584}, "model": "gun/ak47-supreme"},
-		{ "predicate": {"damaged": 0, "damage": 0.21115537848605578}, "model": "gun/xm1014-supreme"},
+		{ "predicate": {"damaged": 0, "damage": 0.21115537848605578}, "model": "gun/xm1014_supreme"},
 		{ "predicate": {"damaged": 0, "damage": 0.2151394422310757}, "model": "gun/henry-supreme"},
 		{ "predicate": {"damaged": 0, "damage": 0.21912350597609562}, "model": "equipment/flag-blue"},
 		{ "predicate": {"damaged": 0, "damage": 0.22310756972111553}, "model": "equipment/flag-red"},
