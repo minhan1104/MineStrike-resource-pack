@@ -1,4 +1,9 @@
 {
+  "cs.hurtsound.oof": {
+    "sounds": [
+      "cs/hurtsounds/oof"
+    ]
+  },
   "cs.musics.mvp.ez4ence": {
     "sounds": [
       {
