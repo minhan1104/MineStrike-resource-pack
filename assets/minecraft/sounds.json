@@ -1,4 +1,21 @@
 {
+  "cs.hurtsound.uuh": {
+    "sounds": [
+      "cs/hurtsounds/uuh"
+    ]
+  },
+  "cs.hurtsound.mario": {
+    "sounds": [
+      "cs/hurtsounds/mario1",
+      "cs/hurtsounds/mario2",
+      "cs/hurtsounds/mario3"
+    ]
+  },
+  "cs.hurtsound.oof": {
+    "sounds": [
+      "cs/hurtsounds/oof"
+    ]
+  },
   "cs.musics.mvp.ez4ence": {
     "sounds": [
       {
