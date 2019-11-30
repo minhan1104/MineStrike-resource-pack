@@ -989,15 +989,6 @@
       }
     ]
   },
-  "cs.musics.lacrimosa": {
-    "category": "music",
-    "sounds": [
-      {
-	    "name": "cs/musics/lacrimosa",
-        "stream": true
-      }
-    ]
-  },
   "cs.musics.shining": {
     "category": "music",
     "sounds": [
