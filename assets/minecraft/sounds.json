@@ -809,6 +809,16 @@
       "cs/shop/shopcantbuy"
     ]
   },
+  "cs.menu.click": {
+    "sounds": [
+      "cs/menu/click"
+    ]
+  },
+  "cs.menu.invalid": {
+    "sounds": [
+      "cs/menu/invalid"
+    ]
+  },
   "cs.throwables.grenadethrow": {
     "sounds": [
       "cs/throwables/grenadethrow"
@@ -985,15 +995,6 @@
     "sounds": [
       {
 	    "name": "cs/musics/c4",
-        "stream": true
-      }
-    ]
-  },
-  "cs.musics.shining": {
-    "category": "music",
-    "sounds": [
-      {
-	    "name": "cs/musics/shining",
         "stream": true
       }
     ]
