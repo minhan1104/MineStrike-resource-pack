@@ -809,6 +809,11 @@
       "cs/shop/shopcantbuy"
     ]
   },
+  "cs.menu.beep": {
+    "sounds": [
+      "cs/menu/beep"
+    ]
+  },
   "cs.menu.click": {
     "sounds": [
       "cs/menu/click"
