@@ -1,0 +1,6 @@
+{
+  "parent": "gun/awp-praif",
+  "textures": {
+    "mesh_atlas": "new/awp_awp_bubble"
+  }
+}

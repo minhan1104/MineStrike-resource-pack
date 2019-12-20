@@ -1,0 +1,6 @@
+{
+  "parent": "gun/g3sg1-speakingstones",
+  "textures": {
+    "voxels_atlas": "new/g3sg1_cyrex"
+  }
+}
