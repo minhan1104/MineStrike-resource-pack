@@ -1,0 +1,6 @@
+{
+  "parent": "gun/galil",
+  "textures": {
+    "voxels_atlas": "new/galil_sugar"
+  }
+}
