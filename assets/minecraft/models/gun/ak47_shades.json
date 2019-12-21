@@ -1,0 +1,6 @@
+{
+  "parent": "gun/ak47",
+  "textures": {
+    "mesh_atlas": "new/ak47_shades"
+  }
+}
