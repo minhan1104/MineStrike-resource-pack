@@ -1,6 +1,6 @@
 {
   "parent": "gun/ump45riot",
   "textures": {
-    "voxels_atlas": "new/ump45_bolegao"
+    "mesh_atlas": "new/ump45_bolegao"
   }
 }
