@@ -1,6 +1,1 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "2dguns/ak12-fnatic"
-  }
-}
+{"parent":"item/handheld","textures":{"layer0":"2dguns/ak12-fnatic"}}
