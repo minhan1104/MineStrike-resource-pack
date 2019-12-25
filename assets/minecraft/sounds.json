@@ -16,6 +16,22 @@
       "cs/hurtsounds/oof"
     ]
   },
+  "cs.musics.mvp.wtf1": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/wtf1",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.wtf2": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/wtf2",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.mvp.ez4ence": {
     "sounds": [
       {
