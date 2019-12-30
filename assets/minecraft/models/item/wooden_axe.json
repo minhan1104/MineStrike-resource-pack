@@ -15,6 +15,7 @@
     {"predicate": {"damaged": 0, "damage": 0.13333333333333333}, "model": "tombs/pumpkin"},
     {"predicate": {"damaged": 0, "damage": 0.15}, "model": "tombs/coffin"},
     {"predicate": {"damaged": 0, "damage": 0.16666666666666667}, "model": "tombs/snowman"},
+    {"predicate": {"damaged": 0, "damage": 0.18333333333333333}, "model": "tombs/heater"},
 	{"predicate": {"damaged": 1, "damage": 0}, "model": "item/wooden_axe"}
   ]
 }
