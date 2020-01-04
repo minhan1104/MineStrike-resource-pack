@@ -114,6 +114,11 @@
       "cs/weapons/cyclone"
     ]
   },
+  "cs.weapons.thunderbolt": {
+    "sounds": [
+      "cs/weapons/thunderbolt"
+    ]
+  },
   "cs.musics.lobby": {
     "sounds": [
       {
