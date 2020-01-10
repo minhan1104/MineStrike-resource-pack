@@ -1079,6 +1079,60 @@
       }
     ]
   },
+  "cs.musics.castle_start": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/castle_start",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.castle_loop": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/castle_loop",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.castle_loop1": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/castle_loop",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.bowser_start": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/bowser_start",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.bowser_loop": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/bowser_loop",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.bowser_loop1": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/bowser_loop",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.action": {
     "category": "music",
     "sounds": [
