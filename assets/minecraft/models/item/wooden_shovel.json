@@ -38,7 +38,7 @@
 	{"predicate": {"damaged": 0, "damage": 0.51666666666666667}, "model": "icon/map/vertigo"},
 	{"predicate": {"damaged": 0, "damage": 0.53333333333333333}, "model": "icon/mode/training"},
 	{"predicate": {"damaged": 0, "damage": 0.55}, "model": "icon/map/snow"},
-	{"predicate": {"damaged": 0, "damage": 0.56666666666666667}, "model": "TOBEREPLACED_34"},
+	{"predicate": {"damaged": 0, "damage": 0.56666666666666667}, "model": "icon/retry"},
 	{"predicate": {"damaged": 0, "damage": 0.58333333333333333}, "model": "TOBEREPLACED_35"},
 	{"predicate": {"damaged": 0, "damage": 0.6}, "model": "TOBEREPLACED_36"},
 	{"predicate": {"damaged": 0, "damage": 0.61666666666666667}, "model": "TOBEREPLACED_37"},
