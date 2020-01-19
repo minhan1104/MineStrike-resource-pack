@@ -315,5 +315,14 @@
           "\u9022"
       ]
     }
+    {
+      "type": "bitmap",
+      "file": "minestrike:icons/lixi.png",
+      "ascent": 8,
+      "height": 8.0,
+      "chars": [
+          "\u9023"
+      ]
+    }
   ]
 }
