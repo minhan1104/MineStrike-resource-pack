@@ -1,0 +1,6 @@
+{
+  "parent": "gun/aug_thot",
+  "textures": {
+    "voxels_atlas": "new/aug_drain"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "gun/glock-redrod",
+  "textures": {
+    "voxels_atlas": "new/glock_interceptor"
+  }
+}

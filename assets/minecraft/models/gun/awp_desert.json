@@ -1,0 +1,6 @@
+{
+  "parent": "gun/awp-praif",
+  "textures": {
+    "voxels_atlas": "new/awp_desert"
+  }
+}
