@@ -1,0 +1,6 @@
+{
+  "parent": "gun/thunderbolt",
+  "textures": {
+    "voxels_atlas": "new/thunderbolt_special"
+  }
+}

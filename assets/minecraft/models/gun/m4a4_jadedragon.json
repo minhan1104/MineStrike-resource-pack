@@ -1,0 +1,6 @@
+{
+  "parent": "gun/m4a4howl",
+  "textures": {
+    "mesh_atlas": "new/m4a4_jadedragon"
+  }
+}

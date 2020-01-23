@@ -1,0 +1,6 @@
+{
+  "parent": "gun/negev",
+  "textures": {
+    "voxels_atlas": "new/negev_tower"
+  }
+}
