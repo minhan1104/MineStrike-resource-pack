@@ -156,7 +156,7 @@
 		{"predicate": {"damaged": 0, "damage": 0.5936254980079682}, "model": "gun/negev_tower"},
 		{"predicate": {"damaged": 0, "damage": 0.5976095617529881}, "model": "gun/thunderbolt_special"},
 		{"predicate": {"damaged": 0, "damage": 0.601593625498008}, "model": "gun/sg552_akihabara"},
-		{"predicate": {"damaged": 0, "damage": 0.6055776892430279}, "model": "TOBEREPLACED_152"},
+		{"predicate": {"damaged": 0, "damage": 0.6055776892430279}, "model": "gun/57"},
 		{"predicate": {"damaged": 0, "damage": 0.6095617529880478}, "model": "TOBEREPLACED_153"},
 		{"predicate": {"damaged": 0, "damage": 0.6135458167330677}, "model": "TOBEREPLACED_154"},
 		{"predicate": {"damaged": 0, "damage": 0.6175298804780877}, "model": "TOBEREPLACED_155"},
