@@ -1,0 +1,6 @@
+{
+  "parent": "gun/cancer_black",
+  "textures": {
+    "mesh_atlas1": "new/di_gamble_l"
+  }
+}

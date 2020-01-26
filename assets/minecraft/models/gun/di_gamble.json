@@ -1,0 +1,7 @@
+{
+  "parent": "gun/dualcancer",
+  "textures": {
+    "mesh_atlas": "new/di_gamble_l",
+    "mesh_atlas1": "new/di_gamble_r"
+  }
+}
