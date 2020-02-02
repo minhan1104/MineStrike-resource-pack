@@ -981,6 +981,11 @@
       "cs/weapons/scout_s"
     ]
   },
+  "cs.weapons.cz75": {
+    "sounds": [
+      "cs/weapons/cz75"
+    ]
+  },
   "cs.random.reload_sg": {
     "sounds": [
       "cs/random/reload_sg"
