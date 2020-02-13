@@ -1084,6 +1084,33 @@
       }
     ]
   },
+  "cs.musics.plain_start": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/plain_start",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.plain_loop": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/plain_loop",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.plain_loop1": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/plain_loop",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.castle_start": {
     "category": "music",
     "sounds": [
