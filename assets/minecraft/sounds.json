@@ -1,4 +1,53 @@
 {
+  "cs.npc.trandan.amen": {
+    "sounds": [
+      "cs/npc/trandan/amen"
+    ]
+  },
+  "cs.npc.trandan.chuitheconcac": {
+    "sounds": [
+      "cs/npc/trandan/chuitheconcac"
+    ]
+  },
+  "cs.npc.trandan.coichungtao": {
+    "sounds": [
+      "cs/npc/trandan/coichungtao"
+    ]
+  },
+  "cs.npc.trandan.fight": {
+    "sounds": [
+      "cs/npc/trandan/fight1",
+	  "cs/npc/trandan/fight2"
+    ]
+  },
+  "cs.npc.trandan.gioithieu": {
+    "sounds": [
+      "cs/npc/trandan/gioithieu"
+    ]
+  },
+  "cs.npc.trandan.khoesung": {
+    "sounds": [
+      "cs/npc/trandan/khoesung"
+    ]
+  },
+  "cs.npc.trandan.maychuihamay": {
+    "sounds": [
+      "cs/npc/trandan/maychuihamay"
+    ]
+  },
+  "cs.npc.trandan.sung": {
+    "sounds": [
+      "cs/npc/trandan/sung1",
+	  "cs/npc/trandan/sung2",
+	  "cs/npc/trandan/sung3",
+	  "cs/npc/trandan/sung4"
+    ]
+  },
+  "cs.npc.trandan.thichthivo": {
+    "sounds": [
+      "cs/npc/trandan/thichthivo"
+    ]
+  },
   "cs.hurtsound.uuh": {
     "sounds": [
       "cs/hurtsounds/uuh"
