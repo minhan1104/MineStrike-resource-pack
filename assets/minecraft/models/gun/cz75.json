@@ -3304,11 +3304,11 @@
 			"scale":  [ 0.75, 0.75, 0.75 ]
 		},
 		"firstperson_righthand": {
-			"translation":  [ -2.086, 4.1738, -4.868 ],
+			"translation":  [ 1.3922, 1.3911, -9.041 ],
 			"scale":  [ 0.75, 0.75, 0.75 ]
 		},
 		"firstperson_lefthand": {
-			"translation":  [ -2.086, 4.1738, -4.868 ],
+			"translation":  [ 1.3922, 1.3911, -9.041 ],
 			"scale":  [ 0.75, 0.75, 0.75 ]
 		},
 		"gui": {
