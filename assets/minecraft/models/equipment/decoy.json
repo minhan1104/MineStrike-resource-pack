@@ -1,0 +1,6 @@
+{
+  "parent": "equipment/flashbang",
+  "textures": {
+    "voxels_atlas": "new/decoy"
+  }
+}
