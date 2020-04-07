@@ -1,17 +1,26 @@
 {
   "cs.npc.trandan.amen": {
     "sounds": [
-      "cs/npc/trandan/amen"
+      {
+	    "name": "cs/npc/trandan/amen",
+        "stream": true
+      }
     ]
   },
   "cs.npc.trandan.chuitheconcac": {
     "sounds": [
-      "cs/npc/trandan/chuitheconcac"
+      {
+	    "name": "cs/npc/trandan/chuitheconcac",
+        "stream": true
+      }
     ]
   },
   "cs.npc.trandan.coichungtao": {
     "sounds": [
-      "cs/npc/trandan/coichungtao"
+      {
+	    "name": "cs/npc/trandan/coichungtao",
+        "stream": true
+      }
     ]
   },
   "cs.npc.trandan.fight": {
@@ -22,30 +31,54 @@
   },
   "cs.npc.trandan.gioithieu": {
     "sounds": [
-      "cs/npc/trandan/gioithieu"
+      {
+	    "name": "cs/npc/trandan/gioithieu",
+        "stream": true
+      }
     ]
   },
   "cs.npc.trandan.khoesung": {
     "sounds": [
-      "cs/npc/trandan/khoesung"
+      {
+	    "name": "cs/npc/trandan/khoesung",
+        "stream": true
+      }
     ]
   },
   "cs.npc.trandan.maychuihamay": {
     "sounds": [
-      "cs/npc/trandan/maychuihamay"
+      {
+	    "name": "cs/npc/trandan/maychuihamay",
+        "stream": true
+      }
     ]
   },
   "cs.npc.trandan.sung": {
     "sounds": [
-      "cs/npc/trandan/sung1",
-	  "cs/npc/trandan/sung2",
-	  "cs/npc/trandan/sung3",
-	  "cs/npc/trandan/sung4"
+      {
+	    "name": "cs/npc/trandan/sung1",
+        "stream": true
+      },
+	  {
+	    "name": "cs/npc/trandan/sung2",
+        "stream": true
+      },
+	  {
+	    "name": "cs/npc/trandan/sung3",
+        "stream": true
+      },
+	  {
+	    "name": "cs/npc/trandan/sung4",
+        "stream": true
+      }
     ]
   },
   "cs.npc.trandan.thichthivo": {
     "sounds": [
-      "cs/npc/trandan/thichthivo"
+      {
+	    "name": "cs/npc/trandan/thichthivo",
+        "stream": true
+      }
     ]
   },
   "cs.hurtsound.uuh": {
