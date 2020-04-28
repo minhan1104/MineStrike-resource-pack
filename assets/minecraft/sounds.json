@@ -98,6 +98,14 @@
       "cs/hurtsounds/oof"
     ]
   },
+  "cs.musics.mvp.liberation": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/liberation",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.mvp.wtf1": {
     "sounds": [
       {
