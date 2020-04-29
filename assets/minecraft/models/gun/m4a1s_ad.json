@@ -1,0 +1,6 @@
+{
+  "parent": "gun/m4a1_goldencoil",
+  "textures": {
+    "voxels_atlas": "new/m4a1s_ad"
+  }
+}

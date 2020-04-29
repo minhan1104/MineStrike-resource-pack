@@ -1,0 +1,6 @@
+{
+  "parent": "gun/beretta-moon",
+  "textures": {
+    "moon": "new/elites_emperors"
+  }
+}

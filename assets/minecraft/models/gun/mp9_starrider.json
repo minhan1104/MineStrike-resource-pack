@@ -1,0 +1,6 @@
+{
+  "parent": "gun/mp9-particles",
+  "textures": {
+    "voxels_atlas": "new/mp9_starrider"
+  }
+}

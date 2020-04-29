@@ -1,0 +1,6 @@
+{
+  "parent": "gun/mg3gold",
+  "textures": {
+    "voxels_atlas": "new/mg3_camo"
+  }
+}

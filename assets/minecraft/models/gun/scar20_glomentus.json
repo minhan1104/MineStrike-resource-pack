@@ -1,0 +1,6 @@
+{
+  "parent": "gun/scar20_sharpe",
+  "textures": {
+    "voxels_atlas": "new/scar20_glomentus"
+  }
+}

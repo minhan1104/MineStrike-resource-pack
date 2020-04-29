@@ -1,0 +1,6 @@
+{
+  "parent": "gun/de-orochi",
+  "textures": {
+    "voxels_atlas": "new/de_divine"
+  }
+}
