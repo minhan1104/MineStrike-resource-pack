@@ -1,5 +1,5 @@
 {
-  "parent": "gun/mg3gold",
+  "parent": "gun/mg3",
   "textures": {
     "voxels_atlas": "new/mg3_camo"
   }

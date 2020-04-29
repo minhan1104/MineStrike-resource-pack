@@ -1,6 +1,6 @@
 {
   "parent": "gun/r8",
   "textures": {
-    "voxels_atlas": "new/r8_gometri"
+    "mesh_atlas": "new/r8_gometri"
   }
 }
