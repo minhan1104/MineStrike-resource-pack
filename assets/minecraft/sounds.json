@@ -106,6 +106,78 @@
       }
     ]
   },
+  "cs.musics.mvp.aggressive": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/aggressive",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.crimsonassault": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/crimsonassault",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.insurgency": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/insurgency",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.christmas": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/christmas",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.totaldomination": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/totaldomination",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.invasion": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/invasion",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.battlepack": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/battlepack",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.miami": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/miami",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.mvp.moments": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/moments",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.mvp.liberation": {
     "sounds": [
       {
