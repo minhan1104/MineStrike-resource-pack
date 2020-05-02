@@ -98,6 +98,14 @@
       "cs/hurtsounds/oof"
     ]
   },
+  "cs.musics.mvp.daithang": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/daithang",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.mvp.liberation": {
     "sounds": [
       {
