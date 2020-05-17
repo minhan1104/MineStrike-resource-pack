@@ -342,6 +342,11 @@
       "cs/random/buzz"
     ]
   },
+  "cs.random.auto_switch": {
+    "sounds": [
+      "cs/random/auto_switch"
+    ]
+  },
   "cs.weapons.negev": {
     "sounds": [
       "cs/weapons/negev"
@@ -832,6 +837,11 @@
       "cs/throwables/fire-extinguish"
     ]
   },
+  "cs.throwables.fire-flying": {
+    "sounds": [
+      "cs/throwables/fire-flying"
+    ]
+  },
   "cs.throwables.grenade-hit": {
     "sounds": [
       "cs/throwables/grenade-hit"
@@ -845,6 +855,26 @@
   "cs.throwables.explodegrenade": {
     "sounds": [
       "cs/throwables/explodegrenade"
+    ]
+  },
+  "cs.draw.common": {
+    "sounds": [
+      "cs/draw/common"
+    ]
+  },
+  "cs.draw.knife": {
+    "sounds": [
+      "cs/draw/knife"
+    ]
+  },
+  "cs.draw.pistol": {
+    "sounds": [
+      "cs/draw/pistol"
+    ]
+  },
+  "cs.draw.primary": {
+    "sounds": [
+      "cs/draw/primary"
     ]
   },
   "cs.gamesounds.throwingflashbang": {
