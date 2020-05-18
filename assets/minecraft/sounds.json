@@ -1231,6 +1231,16 @@
       "cs/random/reload_sg"
     ]
   },
+  "cs.random.zoom_in": {
+    "sounds": [
+      "cs/random/zoom_in"
+    ]
+  },
+  "cs.random.zoom_out": {
+    "sounds": [
+      "cs/random/zoom_out"
+    ]
+  },
   "cs.gamesounds.c4_end": {
     "sounds": [
       "cs/gamesounds/c4_end"
