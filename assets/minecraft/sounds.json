@@ -210,6 +210,14 @@
       }
     ]
   },
+  "cs.musics.mvp.eyedragon": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/eyedragon",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.mvp.ez4ence": {
     "sounds": [
       {
