@@ -1241,6 +1241,11 @@
       "cs/random/zoom_out"
     ]
   },
+  "cs.random.bulletltor": {
+    "sounds": [
+      "cs/random/bulletltor"
+    ]
+  },
   "cs.gamesounds.c4_end": {
     "sounds": [
       "cs/gamesounds/c4_end"
