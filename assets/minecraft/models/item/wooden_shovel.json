@@ -58,7 +58,7 @@
 	{"predicate": {"damaged": 0, "damage": 0.85}, "model": "icon/nickcolor/yellow"},
 	{"predicate": {"damaged": 0, "damage": 0.86666666666666667}, "model": "icon/nickcolor/darkblue"},
 	{"predicate": {"damaged": 0, "damage": 0.88333333333333333}, "model": "icon/nickcolor/darkred"},
-	{"predicate": {"damaged": 0, "damage": 0.9}, "model": "tobereplaced_54"},
+	{"predicate": {"damaged": 0, "damage": 0.9}, "model": "icon/mode/compe"},
 	{"predicate": {"damaged": 0, "damage": 0.91666666666666667}, "model": "tobereplaced_55"},
 	{"predicate": {"damaged": 0, "damage": 0.93333333333333333}, "model": "tobereplaced_56"},
 	{"predicate": {"damaged": 0, "damage": 0.95}, "model": "tobereplaced_57"},
