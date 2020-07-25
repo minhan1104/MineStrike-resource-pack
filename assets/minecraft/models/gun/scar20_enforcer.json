@@ -1,6 +1,6 @@
 {
   "parent": "gun/scar20-thot",
   "textures": {
-    "mesh_atlas": "new/scar20_enforcer"
+    "voxels_atlas": "new/scar20_enforcer"
   }
 }
