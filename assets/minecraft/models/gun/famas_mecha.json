@@ -1,0 +1,6 @@
+{
+  "parent": "gun/famas",
+  "textures": {
+    "voxels_atlas": "new/famas_mecha"
+  }
+}

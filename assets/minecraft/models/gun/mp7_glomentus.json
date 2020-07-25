@@ -1,0 +1,6 @@
+{
+  "parent": "gun/mp7masquerade",
+  "textures": {
+    "voxels_atlas": "new/mp7_glomentus"
+  }
+}
