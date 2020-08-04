@@ -1,0 +1,6 @@
+{
+  "parent": "gun/ump45",
+  "textures": {
+    "mesh_atlas": "new/ump45_fs"
+  }
+}

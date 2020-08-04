@@ -1,0 +1,6 @@
+{
+  "parent": "gun/deagle_stargaze",
+  "textures": {
+    "voxels_atlas": "new/deagle_fs"
+  }
+}

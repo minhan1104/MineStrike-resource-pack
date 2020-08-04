@@ -1,0 +1,6 @@
+{
+  "parent": "gun/ak47-ocalin",
+  "textures": {
+    "voxels_atlas": "new/ak47_fs"
+  }
+}

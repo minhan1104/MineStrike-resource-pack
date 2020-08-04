@@ -1,0 +1,6 @@
+{
+  "parent": "gun/xm1014_gold",
+  "textures": {
+    "voxels_atlas": "new/xm1014_fs"
+  }
+}

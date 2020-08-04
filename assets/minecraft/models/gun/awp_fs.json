@@ -1,0 +1,6 @@
+{
+  "parent": "gun/awp-progressive",
+  "textures": {
+    "voxels_atlas": "new/awp_fs"
+  }
+}

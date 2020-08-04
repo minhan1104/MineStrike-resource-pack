@@ -1,0 +1,6 @@
+{
+  "parent": "gun/57",
+  "textures": {
+    "voxels_atlas": "new/57_fs"
+  }
+}
