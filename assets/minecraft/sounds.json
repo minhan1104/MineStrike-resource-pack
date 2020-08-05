@@ -1284,6 +1284,15 @@
       "cs/gamesounds/c4_beep5"
     ]
   },
+  "cs.musics.lacrimosa": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/lacrimosa",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.c4": {
     "category": "music",
     "sounds": [
