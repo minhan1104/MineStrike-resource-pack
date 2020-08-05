@@ -1,0 +1,69 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"voxels_atlas": "case/hlw_01"
+	},
+	"elements": [
+		{
+			"name": "Voxels",
+			"from": [0.875, 0, 9.75],
+			"to": [6.125, 5.25, 15],
+			"faces": {
+				"north": {"uv": [15.75, 10.75, 10.5, 16], "texture": "#voxels_atlas"},
+				"east": {"uv": [10.5, 5.5, 5.25, 10.75], "texture": "#voxels_atlas"},
+				"south": {"uv": [0, 5.5, 5.25, 10.75], "texture": "#voxels_atlas"},
+				"west": {"uv": [0, 0.25, 5.25, 5.5], "texture": "#voxels_atlas"},
+				"up": {"uv": [5.25, 16, 10.5, 10.75], "texture": "#voxels_atlas"},
+				"down": {"uv": [0, 10.75, 5.25, 16], "texture": "#voxels_atlas"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [3, 2.625, 15],
+			"to": [4, 4.125, 15.375],
+			"faces": {
+				"north": {"uv": [11.5, 9.25, 10.5, 10.75], "texture": "#voxels_atlas"},
+				"east": {"uv": [11.25, 6.25, 10.875, 7.75], "texture": "#voxels_atlas"},
+				"south": {"uv": [10.5, 7.75, 11.5, 9.25], "texture": "#voxels_atlas"},
+				"west": {"uv": [10.5, 6.25, 10.875, 7.75], "texture": "#voxels_atlas"},
+				"up": {"uv": [10.5, 5.875, 11.5, 5.5], "texture": "#voxels_atlas"},
+				"down": {"uv": [10.5, 5.875, 11.5, 6.25], "texture": "#voxels_atlas"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -180, 0],
+			"translation": [-4.174, -2.782, 6.2608]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, -180, 0],
+			"translation": [4.8694, -2.782, 6.2608]
+		},
+		"firstperson_righthand": {
+			"translation": [1.3914, 9.0434, -4.173]
+		},
+		"firstperson_lefthand": {
+			"translation": [-7.652, 9.0434, -4.173]
+		},
+		"ground": {
+			"translation": [9.3695, 12, -9.152],
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 14, 0],
+			"scale": [1.7, 1.7, 1.7]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [-13.21, 16.694, 12.52],
+			"scale": [3, 3, 3]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [-9.043, 11.827, 4.8695],
+			"scale": [2, 2, 2]
+		}
+	}
+}
