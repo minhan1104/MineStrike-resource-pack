@@ -1383,6 +1383,51 @@
       }
     ]
   },
+  "cs.musics.herobrine_start": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/herobrine_start",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.herobrine_loop": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/herobrine_loop",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.herobrine_loop1": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/herobrine_loop",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.gourmetrace": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/gourmetrace",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.gourmetrace1": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/gourmetrace",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.castle_start": {
     "category": "music",
     "sounds": [
