@@ -1482,6 +1482,33 @@
       }
     ]
   },
+  "cs.musics.athletic_start": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/athletic_start",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.athletic_loop": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/athletic_loop",
+        "stream": true
+      }
+    ]
+  },
+  "cs.musics.athletic_loop1": {
+    "category": "music",
+    "sounds": [
+      {
+	    "name": "cs/musics/athletic_loop",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.action": {
     "category": "music",
     "sounds": [
