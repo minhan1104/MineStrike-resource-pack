@@ -1,0 +1,6 @@
+{
+  "parent": "gun/anaconda",
+  "textures": {
+    "voxels_atlas": "new/anaconda_hlw"
+  }
+}
