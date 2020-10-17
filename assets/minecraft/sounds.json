@@ -322,6 +322,14 @@
       }
     ]
   },
+  "cs.musics.mvp.wideputin": {
+    "sounds": [
+      {
+	    "name": "cs/musics/mvp/wideputin",
+        "stream": true
+      }
+    ]
+  },
   "cs.weapons.p2000": {
     "sounds": [
       "cs/weapons/p2000"
