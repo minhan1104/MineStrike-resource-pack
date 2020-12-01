@@ -509,6 +509,11 @@
       "cs/weapons/m1887"
     ]
   },
+  "cs.zombie.boost": {
+    "sounds": [
+      "cs/zombie/boost"
+    ]
+  },
   "cs.zombie.powerup": {
     "sounds": [
       "cs/zombie/powerup"
