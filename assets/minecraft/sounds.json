@@ -1606,6 +1606,14 @@
       }
     ]
   },
+  "cs.musics.ze_hitch": {
+    "sounds": [
+      {
+	    "name": "cs/musics/ze_hitch",
+        "stream": true
+      }
+    ]
+  },
   "cs.musics.ze_run": {
     "sounds": [
       {
