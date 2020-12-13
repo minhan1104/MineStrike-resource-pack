@@ -1,0 +1,6 @@
+{
+  "parent": "knife/bayonet",
+  "textures": {
+    "mesh_atlas": "new/bayonet_doppler"
+  }
+}

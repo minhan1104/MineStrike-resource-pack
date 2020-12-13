@@ -1,0 +1,6 @@
+{
+  "parent": "gun/p2000",
+  "textures": {
+    "voxels_atlas": "new/p2000_ivory"
+  }
+}

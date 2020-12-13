@@ -1,0 +1,6 @@
+{
+  "parent": "gun/sg552",
+  "textures": {
+    "voxels_atlas": "new/sg552_empress"
+  }
+}

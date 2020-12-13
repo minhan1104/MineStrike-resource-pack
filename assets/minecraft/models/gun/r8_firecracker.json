@@ -1,0 +1,6 @@
+{
+  "parent": "gun/r8_fade",
+  "textures": {
+    "mesh_atlas": "new/r8_firecracker"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "gun/winchester",
+  "textures": {
+    "voxels_atlas": "new/winchester_xmas2020"
+  }
+}

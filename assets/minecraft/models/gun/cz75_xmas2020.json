@@ -1,0 +1,6 @@
+{
+  "parent": "gun/cz75",
+  "textures": {
+    "voxels_atlas": "new/cz75_xmas2020"
+  }
+}

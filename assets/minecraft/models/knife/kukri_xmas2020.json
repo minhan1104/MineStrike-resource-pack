@@ -1,0 +1,6 @@
+{
+  "parent": "knife/kukri",
+  "textures": {
+    "mesh_atlas": "new/kukri_xmas2020"
+  }
+}

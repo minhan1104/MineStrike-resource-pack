@@ -1,0 +1,6 @@
+{
+  "parent": "gun/rpk_bualiem",
+  "textures": {
+    "voxels_atlas": "new/rpk_oblivion"
+  }
+}

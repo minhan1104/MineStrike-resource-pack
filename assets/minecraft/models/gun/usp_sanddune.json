@@ -1,0 +1,6 @@
+{
+  "parent": "gun/usp",
+  "textures": {
+    "voxels_atlas": "new/usp_sanddune"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "gun/p90-oni",
+  "textures": {
+    "voxels_atlas": "new/p90_kaori"
+  }
+}

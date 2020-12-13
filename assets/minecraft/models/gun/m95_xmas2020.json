@@ -1,0 +1,6 @@
+{
+  "parent": "gun/m95delix",
+  "textures": {
+    "voxels_atlas": "new/m95_xmas2020"
+  }
+}

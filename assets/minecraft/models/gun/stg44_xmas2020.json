@@ -1,0 +1,6 @@
+{
+  "parent": "gun/stg44",
+  "textures": {
+    "voxels_atlas": "new/stg44_xmas2020"
+  }
+}
