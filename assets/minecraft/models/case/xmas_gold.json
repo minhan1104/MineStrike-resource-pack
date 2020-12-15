@@ -1,34 +1,69 @@
 {
-	"__comment": "Designed by NgXTruongHai with Cubik Studio - https://cubik.studio",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"voxels_atlas": "case/xmas_gold"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
-			"__comment": "Voxels",
-			"from": [ 0.875, -0.75, 9 ],
-			"to": [ 6.875, 5.25, 15 ],
+			"name": "Voxels",
+			"from": [0.875, -0.75, 9],
+			"to": [6.875, 5.25, 15],
 			"faces": {
-				"down": { "uv": [ 0, 13, 3, 16 ], "texture": "#voxels_atlas" },
-				"up": { "uv": [ 3, 16, 6, 13 ], "texture": "#voxels_atlas" },
-				"north": { "uv": [ 3, 10, 0, 13 ], "texture": "#voxels_atlas" },
-				"south": { "uv": [ 3, 10, 6, 13 ], "texture": "#voxels_atlas" },
-				"west": { "uv": [ 0, 7, 3, 10 ], "texture": "#voxels_atlas" },
-				"east": { "uv": [ 6, 7, 3, 10 ], "texture": "#voxels_atlas" }
+				"north": {"uv": [3, 10, 0, 13], "texture": "#voxels_atlas"},
+				"east": {"uv": [6, 7, 3, 10], "texture": "#voxels_atlas"},
+				"south": {"uv": [3, 10, 6, 13], "texture": "#voxels_atlas"},
+				"west": {"uv": [0, 7, 3, 10], "texture": "#voxels_atlas"},
+				"up": {"uv": [3, 16, 6, 13], "texture": "#voxels_atlas"},
+				"down": {"uv": [0, 13, 3, 16], "texture": "#voxels_atlas"}
 			}
 		},
 		{
-			"__comment": "Voxels",
-			"from": [ 3.375, 2.625, 15 ],
-			"to": [ 4.375, 4.125, 15.375 ],
+			"name": "Voxels",
+			"from": [3.375, 2.625, 15],
+			"to": [4.375, 4.125, 15.375],
 			"faces": {
-				"down": { "uv": [ 7.375, 15.8125, 7.875, 16 ], "texture": "#voxels_atlas" },
-				"up": { "uv": [ 7.375, 15.8125, 7.875, 15.625 ], "texture": "#voxels_atlas" },
-				"north": { "uv": [ 6.5, 15.25, 6, 16 ], "texture": "#voxels_atlas" },
-				"south": { "uv": [ 6.5, 15.25, 7, 16 ], "texture": "#voxels_atlas" },
-				"west": { "uv": [ 7, 15.25, 7.1875, 16 ], "texture": "#voxels_atlas" },
-				"east": { "uv": [ 7.375, 15.25, 7.1875, 16 ], "texture": "#voxels_atlas" }
+				"north": {"uv": [6.5, 15.25, 6, 16], "texture": "#voxels_atlas"},
+				"east": {"uv": [7.375, 15.25, 7.1875, 16], "texture": "#voxels_atlas"},
+				"south": {"uv": [6.5, 15.25, 7, 16], "texture": "#voxels_atlas"},
+				"west": {"uv": [7, 15.25, 7.1875, 16], "texture": "#voxels_atlas"},
+				"up": {"uv": [7.375, 15.8125, 7.875, 15.625], "texture": "#voxels_atlas"},
+				"down": {"uv": [7.375, 15.8125, 7.875, 16], "texture": "#voxels_atlas"}
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -180, 0],
+			"translation": [-4.174, -2.782, 6.2608]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, -180, 0],
+			"translation": [4.8694, -2.782, 6.2608]
+		},
+		"firstperson_righthand": {
+			"translation": [1.3914, 9.0434, -4.173]
+		},
+		"firstperson_lefthand": {
+			"translation": [-7.652, 9.0434, -4.173]
+		},
+		"ground": {
+			"translation": [6.8695, 12, -6.402],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 12.75, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [-13.21, 16.694, 12.52],
+			"scale": [3, 3, 3]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [-9.043, 11.827, 4.8695],
+			"scale": [2, 2, 2]
+		}
+	}
 }
