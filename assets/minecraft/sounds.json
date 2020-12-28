@@ -509,6 +509,16 @@
       "cs/weapons/m1887"
     ]
   },
+  "cs.zombie.grenade_throw": {
+    "sounds": [
+      "cs/zombie/grenade_throw"
+    ]
+  },
+  "cs.zombie.grenade_exp": {
+    "sounds": [
+      "cs/zombie/grenade_exp"
+    ]
+  },
   "cs.zombie.boost": {
     "sounds": [
       "cs/zombie/boost"
