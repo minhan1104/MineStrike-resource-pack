@@ -1461,56 +1461,56 @@
       }
     ]
   },
-  "cs.musics.castle_start": {
+  "cs.musics.corneria_start": {
     "category": "music",
     "sounds": [
       {
-	    "name": "cs/musics/castle_start",
+	    "name": "cs/musics/corneria_start",
         "stream": true
       }
     ]
   },
-  "cs.musics.castle_loop": {
+  "cs.musics.corneria_loop": {
     "category": "music",
     "sounds": [
       {
-	    "name": "cs/musics/castle_loop",
+	    "name": "cs/musics/corneria_loop",
         "stream": true
       }
     ]
   },
-  "cs.musics.castle_loop1": {
+  "cs.musics.corneria_loop1": {
     "category": "music",
     "sounds": [
       {
-	    "name": "cs/musics/castle_loop",
+	    "name": "cs/musics/corneria_loop",
         "stream": true
       }
     ]
   },
-  "cs.musics.bowser_start": {
+  "cs.musics.bossbattle_start": {
     "category": "music",
     "sounds": [
       {
-	    "name": "cs/musics/bowser_start",
+	    "name": "cs/musics/bossbattle_start",
         "stream": true
       }
     ]
   },
-  "cs.musics.bowser_loop": {
+  "cs.musics.bossbattle_loop": {
     "category": "music",
     "sounds": [
       {
-	    "name": "cs/musics/bowser_loop",
+	    "name": "cs/musics/bossbattle_loop",
         "stream": true
       }
     ]
   },
-  "cs.musics.bowser_loop1": {
+  "cs.musics.bossbattle_loop1": {
     "category": "music",
     "sounds": [
       {
-	    "name": "cs/musics/bowser_loop",
+	    "name": "cs/musics/bossbattle_loop",
         "stream": true
       }
     ]
