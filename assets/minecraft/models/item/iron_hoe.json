@@ -226,7 +226,7 @@
 		{"predicate": {"damaged": 0, "damage": 0.8725099601593626}, "model": "gun/usps_krokos"},
 		{"predicate": {"damaged": 0, "damage": 0.8764940239043825}, "model": "gun/usp_sanddune"},
 		{"predicate": {"damaged": 0, "damage": 0.8804780876494024}, "model": "gun/winchester_xmas2020"},
-		{"predicate": {"damaged": 0, "damage": 0.8844621513944223}, "model": "tobereplaced_222"},
+		{"predicate": {"damaged": 0, "damage": 0.8844621513944223}, "model": "gun/m134"},
 		{"predicate": {"damaged": 0, "damage": 0.8884462151394422}, "model": "tobereplaced_223"},
 		{"predicate": {"damaged": 0, "damage": 0.8924302788844621}, "model": "tobereplaced_224"},
 		{"predicate": {"damaged": 0, "damage": 0.896414342629482}, "model": "tobereplaced_225"},

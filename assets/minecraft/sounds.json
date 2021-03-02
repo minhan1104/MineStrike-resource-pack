@@ -330,6 +330,11 @@
       }
     ]
   },
+  "cs.weapons.m134": {
+    "sounds": [
+      "cs/weapons/m134"
+    ]
+  },
   "cs.weapons.p2000": {
     "sounds": [
       "cs/weapons/p2000"
